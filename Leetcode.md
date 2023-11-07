@@ -76,19 +76,19 @@ Level-Order Traversal 遍历
 
 1. set():
 
-Change str to list
+   Change str to list
 
 2. HashTable():
 
-Mapping key and value
+   Mapping key and value
 
 3. double pointer:
 
-slow and fast
+   slow and fast
 
 4. str_list = str.split()
 
-and delete the space
+   and delete the space
 
 5. int(a,2) binary to decimal
 
