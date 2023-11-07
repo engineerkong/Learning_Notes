@@ -6,6 +6,7 @@ O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(n^3) < O(2^n) < O(n!) < O(n^n)
 2. Sequential Operation 顺序操作 (addition)
 3. Loop Operation 循环操作 (multiplication)
 4. Branch Operation 分支操作 (maximum)
+
 timeit.Timer - calculate the time consumption
 
 ## Programm = Data Structure + Algorithm
