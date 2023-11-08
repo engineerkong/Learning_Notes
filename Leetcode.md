@@ -1,38 +1,47 @@
 ### Time Complexity
 
 f(n) <= c*g(n) --> f(n) = O(g(n))
+
 O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(n^3) < O(2^n) < O(n!) < O(n^n)
+
 1. Basic Operation 基础操作 (constant)
+
 2. Sequential Operation 顺序操作 (addition)
+
 3. Loop Operation 循环操作 (multiplication)
+
 4. Branch Operation 分支操作 (maximum)
 
-timeit.Timer - calculate the time consumption
+`timeit.Timer` - calculate the time consumption
 
 ## Programm = Data Structure + Algorithm
 
 ### Data Structure
 
-**1. List 表** 
+**List 表** 
 list, tuple:
 
 sequential list (sequential storage)
 
 linked list (non-sequential storage)
 
-**2. Stack 栈**
+SortedList() automatically sort the elements in list - `sorted(list)`
 
-push(): add the tail
+operation: `append()`, `count()`, `index()`, `insert(0,'a')`, `pop()`, `remove()`, `reverse()`, `sort()`
 
-pop(): remove the tail
+**Stack 栈**
 
-**3. Queue 队列**
+`push()`: add the tail
 
-enqueue(): add the tail
+`pop()`: remove the tail
 
-dequeue(): remove the head
+**Queue 队列**
 
-**4. Tree 树**
+`enqueue()`: add the tail
+
+`dequeue()`: remove the head
+
+**Tree 树**
 
 Depth-First Search:
 
@@ -45,6 +54,22 @@ Depth-First Search:
 Bread-First Search:
 
 Level-Order Traversal 遍历
+
+**Logical Operation 逻辑运算符**
+
+&, |, ^ (异或), ~ (反), << (乘2), >> (除2)
+
+**HashTable 哈希表**
+
+Mapping key and value
+
+`.keys()`, `.values()`, `.items()`
+
+`dic = {}` -> `dic[i]=xx`
+
+`for j,k in enumerate(nums)`
+
+`for i,(j,k) in enumerate(dict.items())`
 
 ### Algorithm
 
@@ -74,26 +99,60 @@ Level-Order Traversal 遍历
 
 ### Notes
 
-1. set():
+* str and list switch:
 
-   Change str to list
+`set()`: Change str to list
 
-2. HashTable():
+`s = ''.join(s)`: Change list to str
 
-   Mapping key and value
+`s = ''.join(filter(str.isalnum,s))`: filter everything except alphabet and number to build str
 
-3. double pointer:
+`str.lower()`: change all alphabet to lowercase or uppercase
 
-   slow and fast
+`str_list = str.split()`: Delete space and change to list
 
-4. str_list = str.split()
+* double pointer:
 
-   and delete the space
+slow and fast
 
-5. int(a,2) binary to decimal
+* binary, decimal and logic:
 
-   bin(a) decimal to binary
+`int(a,2)` binary to decimal
 
-7. f(n) = f(n-1) + f(n-2)
-   a, b = b, a+b
-   
+`bin(a)` decimal to binary
+
+`x & -x` sequentially get the element of x (1,2,4,8,...)
+
+`num + 4294967296` (32bit): reverse interger
+
+* value switch:
+
+queue sequence switch p->c->t --- p<-c<-t:
+
+`
+while cur:
+   tmp = cur.next
+   cur.next = pre
+   pre = cur
+   cur = tmp
+`
+
+`f(n) = f(n-1) + f(n-2)`
+
+`a, b = b, a+b`
+
+* Boolen:
+
+`.all()`, `.any()`: determine if all True or one True
+
+* variable:
+
+`nonlocal res` - define res as nonlocal variable in the external function
+
+* algorithm:
+
+`min(enumerate(list),key=lambda x:x[1])[0]`: find the index of minimum
+
+`(s+s)[1:-1].find(s) != -1`: remove match
+
+prefix table and suffix table -> langest equal prefix and suffix -> next array: KMP
