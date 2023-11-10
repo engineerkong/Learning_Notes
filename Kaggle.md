@@ -2,6 +2,8 @@
 
 with **seaborn**
 
+![LPWH19I](https://github.com/engineerkong/Learning_Notes/assets/89781823/c5ea8a6c-4337-49f1-9aed-34eec2125011)
+
 `ign_data = pd.read_csv(ign_filepath, index_col="Platform")`
 
 `sns.lineplot(data=spotify_data)`
@@ -27,3 +29,5 @@ with **seaborn**
 `sns.jointplot(x=iris_data['Petal Length (cm)'], y=iris_data['Sepal Width (cm)'], kind="kde") # 2D KDE(kernel density estimate) plot`
 
 `list(spotify_data.columns)`
+
+`sns.set_style("dark") # (1)"darkgrid", (2)"whitegrid", (3)"dark", (4)"white", and (5)"ticks"`
