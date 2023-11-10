@@ -36,11 +36,12 @@ with **seaborn**
 
 The **mutual information (MI)** between two quantities is a measure of the extent to which knowledge of one quantity reduces uncertainty about the other.
 
-`for colname in X.select_dtypes("object"):
+```
+for colname in X.select_dtypes("object"):
 
     X[colname], _ = X[colname].factorize()
 
-discrete_features = X.dtypes == int  
+discrete_features = X.dtypes == int
 
 def make_mi_scores(X, y, discrete_features):
 
@@ -50,4 +51,5 @@ def make_mi_scores(X, y, discrete_features):
     
     mi_scores = mi_scores.sort_values(ascending=False)
     
-    return mi_scores`
+    return mi_scores
+```
