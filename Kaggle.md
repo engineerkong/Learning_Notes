@@ -102,3 +102,28 @@ kmeans = KMeans(n_clusters=10, n_init=10, random_state=0)
 X["Cluster"] = kmeans.fit_predict(X_scaled) # 每个样本所属的簇
 X_cd = kmeans.fit_transform(X_scaled) # 转换后的数据
 ```
+
+**principal component analysis (PCA)** is a great tool to help you discover important relationships in the data and can also be used to create more informative features. It makes this precise through each component's **percent of explained variance**.
+
+```
+pca = PCA()
+X_pca = pca.fit_transform(X_scaled)
+plot_variance(pca)
+mi_scores = make_mi_scores(X_pca, y, discrete_features=False) # mutual information
+```
+
+A **target encoding** is any kind of encoding that replaces a feature's categories with some number derived from the target:
+
+MEstimateEncoder 旨在通过考虑类别的频率和目标变量的概率来更好地编码类别型特征，以提高机器学习模型的性能
+
+`autos["make_encoded"] = autos.groupby("make")["price"].transform("mean")`
+
+```
+encoder = MEstimateEncoder(cols=["Zipcode"], m=5.0)
+encoder.fit(X_encode, y_encode)
+X_train = encoder.transform(X_pretrain)
+```
+
+**smoothing** is to blend the in-category average with the overall average. Rare categories get less weight on their category average, while missing categories just get the overall average:
+
+`encoding = weight * in_category + (1 - weight) * overall`
