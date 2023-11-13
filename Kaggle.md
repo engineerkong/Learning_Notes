@@ -1,3 +1,59 @@
+# Intro to SQL
+
+**Structured Query Language (SQL)**
+
+- BigQuery
+
+client -> project -> dataset -> tables(shema)
+
+```
+from google.cloud import bigquery
+client = bigquery.client()
+client.dataset
+      .get_dataset
+      .list_tables
+      .list_rows(table,max_results=5).to_dataframe()
+      .query
+```
+
+- `SELECT`,`FROM`,`WHERE`
+
+```
+query = """
+        SELECT Name
+        FROM 'xxx'
+        WHERE Animal='CAT'
+        """
+```
+
+数据集: ``, 字符串:''
+
+- `GROUPBY`,`HAVING`,`COUNT(),SUM(),AVG(),MIN(),MAX()`
+
+`GROUPBY Animal HAVING COUNT(ID)>1`
+
+Aliasing: ... AS NumPosts
+
+- `ORDER BY Animal DESC`
+
+- `DATE`,`DATETIME`
+
+`SELECT Name, EXTRACT(DAY from Date)`
+
+- `AS`, `WITH` 子数据集
+
+`WITH Seniors AS`
+  
+- `JOIN` 合并数据集
+
+```
+FROM xxx INNER JOIN xxx ON # 必须满足
+         LEFT  JOIN        # 返回左，即使无右
+         RIGHT JOIN        # 返回右，即使无左
+```
+
+- `LIKE "%xxx%"` 模糊匹配
+
 # Data Visualization
 
 with **seaborn**
