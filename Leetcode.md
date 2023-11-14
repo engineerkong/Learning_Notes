@@ -156,3 +156,9 @@ while cur:
 `(s+s)[1:-1].find(s) != -1`: remove match
 
 prefix table and suffix table -> langest equal prefix and suffix -> next array: KMP
+
+* list reverse (541):
+
+`s_list[xx][::-1]`
+
+also str can not be assigned directly, need to be switched to list and switched back `s_list=list(s) s=''.join(s_list)`
