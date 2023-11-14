@@ -251,3 +251,48 @@ X_train = encoder.transform(X_pretrain)
 **smoothing** is to blend the in-category average with the overall average. Rare categories get less weight on their category average, while missing categories just get the overall average:
 
 `encoding = weight * in_category + (1 - weight) * overall`
+
+# Intro to Deep Learning
+
+- A Single Neuron
+
+![mfOlDR6](https://github.com/engineerkong/Learning_Notes/assets/89781823/486e044a-c90d-4f7d-84b1-a542074c3a3d)
+
+Deep learning is an approach to machine learning characterized by deep stacks of computations.
+
+
+Keras:
+
+```
+from tensorflow import keras
+from tensorflow.keras import layers
+# Create a network with 1 linear unit
+model = keras.Sequential([
+    layers.Dense(units=1, input_shape=[3])
+])
+w, b = model.weights
+```
+
+- Deep Neural Networks
+
+modularity - building up a complex network from simpler functional units.
+
+dense layers - collect together linear units having a common set of inputs. `layers.Dense(units=4,activation='relu),input_shape=[2]`
+
+convolutional layers / recurrent layers
+
+activation function: `layers.Activation('relu')` # ReLU: max(0,x) make nonlinear, except the output layer other: elu, selu, swish
+
+```
+from tensorflow import keras
+from tensorflow.keras import layers
+model = keras.Sequential([
+    # the hidden ReLU layers
+    layers.Dense(units=4, activation='relu', input_shape=[2]),
+    layers.Dense(units=3, activation='relu'),
+    # the linear output layer 
+    layers.Dense(units=1),
+])
+```
+
+- Stochastic Gradient Descent
