@@ -111,6 +111,8 @@ Mapping key and value
 
 `str_list = str.split()`: Delete space and change to list
 
+`' '.join(list)` is different from `''.join(list)`: it will have space split between each string
+
 * double pointer:
 
 slow and fast
