@@ -449,3 +449,36 @@ visiontools.show_extraction(
 ```
 
 one-dimensional convolution
+
+- Custom Convnets
+
+Convolutional Blocks: convolution - activation - pooling
+
+- Data Argumentation
+
+train on more data: add in some extra fake data that looks reasonably like the real data and your classifier will improve, like flipped
+
+```
+model = keras.Sequential([
+    # Preprocessing
+    preprocessing.RandomFlip('horizontal'), # flip left-to-right
+    preprocessing.RandomContrast(0.5), # contrast change by up to 50%
+    # Base
+    pretrained_base,
+    # Head
+    layers.Flatten(),
+    layers.Dense(6, activation='relu'),
+    layers.Dense(1, activation='sigmoid'),
+])
+```
+
+```
+augment = keras.Sequential([
+    # preprocessing.RandomContrast(factor=0.5),
+    preprocessing.RandomFlip(mode='horizontal'), # meaning, left-to-right
+    # preprocessing.RandomFlip(mode='vertical'), # meaning, top-to-bottom
+    # preprocessing.RandomWidth(factor=0.15), # horizontal stretch
+    # preprocessing.RandomRotation(factor=0.20),
+    # preprocessing.RandomTranslation(height_factor=0.1, width_factor=0.1),
+])
+```
