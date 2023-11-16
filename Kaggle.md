@@ -396,3 +396,56 @@ model.compile(
 sigmoid activation: sigmoid(x) = 1/(1+e^(-x)) # for binary classification
 
 `layers.Dense(1, activation='sigmoid')` # output layer use sigmoid activation 
+
+# Computer Vision
+
+- Convolution (filter) + Activation (detect) + Maximum Pooling (condense)
+
+pretrained base + untrained head
+
+Problem: Translation Invariance - pooling destroyed some of their positional information
+
+```
+model = keras.Sequential([
+    layers.Conv2D(filters=64, kernel_size=3), # activation is None
+    layers.MaxPool2D(pool_size=2), / layers.GlobalAvgPool2D(), # reduces each of features to a single value
+    # More layers follow
+])
+```
+
+```
+image_condense = tf.nn.pool(
+    input=image_detect, # image in the Detect step above
+    window_shape=(2, 2),
+    pooling_type='MAX',
+    # we'll see what these do in the next lesson!
+    strides=(2, 2),
+    padding='SAME',
+)
+```
+
+- The sliding window:
+
+The **strides** parameter says how far the window should move at each step, like (1,1)
+ 
+and the **padding** parameter describes how we handle the pixels at the edges of the input. like 'valid' or 'same'
+
+The receptive field just tells you which parts of the input image a neuron receives information from.
+
+```
+image = circle_64
+kernel = bottom_sobel
+visiontools.show_extraction(
+    image, kernel,
+    conv_stride=1,
+    conv_padding='valid',
+    pool_size=2,
+    pool_stride=2,
+    pool_padding='same',
+    
+    subplot_shape=(1, 4),
+    figsize=(14, 6),
+)
+```
+
+one-dimensional convolution
