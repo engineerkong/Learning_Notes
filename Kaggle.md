@@ -783,3 +783,28 @@ confusion matrix - Sensitivity / True positive rate
 
 A model card is a short document that provides key information about a machine learning model. Model cards increase transparency by communicating information about trained models to broad audiences.
 
+# Geospatial Analysis
+
+- Your First Map
+
+```
+import geopandas as gpd
+full_data = gpd.read_file("../input/geospatial-learn-course-data/DEC_lands/DEC_lands/DEC_lands.shp") # shapefile
+wild_lands = data.loc[data.CLASS.isin(['WILD FOREST', 'WILDERNESS'])].copy()
+ax = world.plot(figsize=(20,20),color='whitesmoke',linestyle=':',edgecolor='black')
+world_loans.plot(ax=ax,markersize=2)
+```
+
+Point, LineString, Polygon
+
+- Coordinate Reference Systems
+
+three-dimensional globe - map projection - coordinate reference system (CRS)
+
+```
+print(regions.crs)
+facilities = gpd.GeoDataFrame(facilities_df, geometry=gpd.points_from_xy(facilities_df.Longitude, facilities_df.Latitude))
+facilities.crs = {'init': 'epsg:4326'}
+ax = regions.plot(figsize=(8,8), color='whitesmoke', linestyle=':', edgecolor='black')
+facilities.to_crs(epsg=32630).plot(markersize=1, ax=ax) # to_crs() method modifies only the "geometry" column
+```
