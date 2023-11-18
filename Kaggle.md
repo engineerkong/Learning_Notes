@@ -768,7 +768,7 @@ Bias refers to negative, unwanted consequences of ML applications, especially if
 5. Evaluation bias occurs when evaluating a model, if the benchmark data does not represent the population that the model will serve.
 6. Deployment bias occurs when the problem the model is intended to solve is different from the way it is actually used.
 
-In the **fairness** lesson, you’ll learn to quantify the extent of the bias in AI systems.
+- In the **fairness** lesson, you’ll learn to quantify the extent of the bias in AI systems.
 
 4 fairness criteria: 
 
@@ -778,4 +778,8 @@ In the **fairness** lesson, you’ll learn to quantify the extent of the bias in
 4. Group unaware:removes all group membership information from the dataset.
 
 confusion matrix - Sensitivity / True positive rate
-In the **model cards** lesson, you’ll learn how to use a popular framework for improving public accountability for AI models.
+
+- In the **model cards** lesson, you’ll learn how to use a popular framework for improving public accountability for AI models.
+
+A model card is a short document that provides key information about a machine learning model. Model cards increase transparency by communicating information about trained models to broad audiences.
+
