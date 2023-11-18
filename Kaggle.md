@@ -742,3 +742,13 @@ def replace_matches_in_column(df, column, string_to_match, min_ratio = 47):
 
 replace_matches_in_column(df=professors, column='Country', string_to_match="south korea")
 ```
+
+# Intro to AI Ethics
+
+In the **human-centered design** lesson, you’ll learn how to design an AI system to ensure that it serves the needs of the people that it is intended for.
+
+In the **bias** lesson, you’ll determine how AI systems can learn to discriminate against certain groups.
+
+In the **fairness** lesson, you’ll learn to quantify the extent of the bias in AI systems.
+
+In the **model cards** lesson, you’ll learn how to use a popular framework for improving public accountability for AI models.
