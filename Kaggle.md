@@ -637,3 +637,68 @@ y = make_multistep_target(y, steps=16).dropna()
 y, X = y.align(X, join='inner', axis=0)
 model = RegressorChain(base_estimator=XGBRegressor())
 ```
+
+# Data Cleaning
+
+- Handling Missing Values
+
+```
+# get the number of missing data points per column
+missing_values_count = nfl_data.isnull().sum()
+# look at the # of missing points in the first ten columns
+missing_values_count[0:10]
+
+# how many total missing values do we have?
+total_cells = np.product(nfl_data.shape)
+total_missing = missing_values_count.sum()
+# percent of data that is missing
+percent_missing = (total_missing/total_cells) * 100
+print(percent_missing)
+```
+
+drop or fill?
+
+```
+# remove all columns with at least one missing value
+columns_with_na_dropped = nfl_data.dropna(axis=1)
+columns_with_na_dropped.head()
+
+# replace all NA's the value that comes directly after it in the same column, 
+# then replace all the remaining na's with 0
+subset_nfl_data.fillna(method='bfill', axis=0).fillna(0)
+```
+
+- Scaling and Normalization
+
+
+
+- Parsing Dates
+
+- Character Encodings
+
+- Inconsistent Data Entry
+
+' Germany', and 'germany'
+
+```
+matches = fuzzywuzzy.process.extract("south korea", countries, limit=10, scorer=fuzzywuzzy.fuzz.token_sort_ratio) # fuzzywuzzy 查找工具
+```
+
+```
+def replace_matches_in_column(df, column, string_to_match, min_ratio = 47):
+    # get a list of unique strings
+    strings = df[column].unique()  
+    # get the top 10 closest matches to our input string
+    matches = fuzzywuzzy.process.extract(string_to_match, strings, 
+                                         limit=10, scorer=fuzzywuzzy.fuzz.token_sort_ratio)
+    # only get matches with a ratio > 90
+    close_matches = [matches[0] for matches in matches if matches[1] >= min_ratio]
+    # get the rows of all the close matches in our dataframe
+    rows_with_matches = df[column].isin(close_matches)
+    # replace all rows with close matches with the input matches 
+    df.loc[rows_with_matches, column] = string_to_match   
+    # let us know the function's done
+    print("All done!")
+
+replace_matches_in_column(df=professors, column='Country', string_to_match="south korea")
+```
