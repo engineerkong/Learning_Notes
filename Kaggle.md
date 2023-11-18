@@ -670,11 +670,51 @@ subset_nfl_data.fillna(method='bfill', axis=0).fillna(0)
 
 - Scaling and Normalization
 
+in **scaling**, you're changing the range of your data, while
 
+```
+# mix-max scale the data between 0 and 1
+scaled_data = minmax_scaling(original_data, columns=[0])
+```
+
+in **normalization**, you're changing the shape of the distribution of your data.
+
+```
+# normalize the exponential data with boxcox
+normalized_data = stats.boxcox(original_data)
+```
 
 - Parsing Dates
 
+```
+# create a new column, date_parsed, with the parsed dates
+landslides['date_parsed'] = pd.to_datetime(landslides['date'], format="%m/%d/%y")
+# or
+landslides['date_parsed'] = pd.to_datetime(landslides['Date'], infer_datetime_format=True)
+# get the day of the month from the date_parsed column
+day_of_month_landslides = landslides['date_parsed'].dt.day
+```
+
 - Character Encodings
+
+```
+after = before.encode("utf-8", errors="replace")
+after.decode("utf-8")
+```
+
+```
+# try to read in a file not in UTF-8
+kickstarter_2016 = pd.read_csv("../input/kickstarter-projects/ks-projects-201612.csv")
+# look at the first ten thousand bytes to guess the character encoding
+with open("../input/kickstarter-projects/ks-projects-201801.csv", 'rb') as rawdata:
+    result = charset_normalizer.detect(rawdata.read(10000))
+# check what the character encoding might be
+print(result)
+# read in the file with the encoding detected by charset_normalizer
+kickstarter_2016 = pd.read_csv("../input/kickstarter-projects/ks-projects-201612.csv", encoding='Windows-1252')
+# save our file (will be saved as UTF-8 by default!)
+kickstarter_2016.to_csv("ks-projects-201801-utf8.csv")
+```
 
 - Inconsistent Data Entry
 
