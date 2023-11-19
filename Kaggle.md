@@ -892,3 +892,26 @@ europe = europe_boundaries.merge(europe_stats, on="name")
 # Use spatial join to match universities to countries in Europe
 european_universities = gpd.sjoin(universities, europe)
 ```
+
+- Proximity Analysis
+
+Measuring distance
+
+```
+# Select one release incident in particular
+recent_release = releases.iloc[360]
+# Measure distance from release to each station
+distances = stations.geometry.distance(recent_release.geometry)
+```
+
+Creating a buffer
+
+```
+two_mile_buffer = stations.geometry.buffer(2*5280)
+GeoJson(two_mile_buffer.to_crs(epsg=4326)).add_to(m)
+# Turn group of polygons into single multipolygon
+my_union = two_mile_buffer.geometry.unary_union
+# The closest station is less than two miles away
+my_union.contains(releases.iloc[360].geometry)
+```
+
