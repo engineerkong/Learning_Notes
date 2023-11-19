@@ -808,3 +808,47 @@ facilities.crs = {'init': 'epsg:4326'}
 ax = regions.plot(figsize=(8,8), color='whitesmoke', linestyle=':', edgecolor='black')
 facilities.to_crs(epsg=32630).plot(markersize=1, ax=ax) # to_crs() method modifies only the "geometry" column
 ```
+
+- Interactive Maps
+
+```
+# Create the map
+m_3 = folium.Map(location=[42.32,-71.0589], tiles='cartodbpositron', zoom_start=13)
+# Add points to the map
+mc = MarkerCluster()
+for idx, row in daytime_robberies.iterrows():
+    if not math.isnan(row['Long']) and not math.isnan(row['Lat']):
+        mc.add_child(Marker([row['Lat'], row['Long']]))
+m_3.add_child(mc)
+# Display the map
+m_3
+```
+
+```
+# Add a bubble map to the base map
+for i in range(0,len(daytime_robberies)):
+    Circle(
+        location=[daytime_robberies.iloc[i]['Lat'], daytime_robberies.iloc[i]['Long']],
+        radius=20,
+        color=color_producer(daytime_robberies.iloc[i]['HOUR'])).add_to(m_4)
+```
+
+```
+# Add a heatmap to the base map
+HeatMap(data=crimes[['Lat', 'Long']], radius=10).add_to(m_5)
+```
+
+```
+# GeoDataFrame with geographical boundaries of Boston police districts
+districts_full = gpd.read_file('../input/geospatial-learn-course-data/Police_Districts/Police_Districts/Police_Districts.shp')
+districts = districts_full[["DISTRICT", "geometry"]].set_index("DISTRICT")
+# Number of crimes in each police district
+plot_dict = crimes.DISTRICT.value_counts()
+# Add a choropleth map to the base map
+Choropleth(geo_data=districts.__geo_interface__, 
+           data=plot_dict, 
+           key_on="feature.id", 
+           fill_color='YlGnBu', 
+           legend_name='Major criminal incidents (Jan-Aug 2018)'
+          ).add_to(m_6)
+```
