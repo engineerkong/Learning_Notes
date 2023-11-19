@@ -852,3 +852,43 @@ Choropleth(geo_data=districts.__geo_interface__,
            legend_name='Major criminal incidents (Jan-Aug 2018)'
           ).add_to(m_6)
 ```
+
+- Manipulating Geospatial Data
+
+Geocoding: Geocoding is the process of converting the name of a place or an address to a location on a map.
+
+```
+geolocator = Nominatim(user_agent="kaggle_learn")
+location = geolocator.geocode("Pyramid of Khufu")
+print(location.point)
+print(location.address)
+```
+
+```
+def my_geocoder(row):
+    try:
+        point = geolocator.geocode(row).point
+        return pd.Series({'Latitude': point.latitude, 'Longitude': point.longitude})
+    except:
+        return None
+universities[['Latitude', 'Longitude']] = universities.apply(lambda x: my_geocoder(x['Name']), axis=1)
+universities = universities.loc[~np.isnan(universities["Latitude"])]
+universities = gpd.GeoDataFrame(
+    universities, geometry=gpd.points_from_xy(universities.Longitude, universities.Latitude))
+universities.crs = {'init': 'epsg:4326'}
+```
+
+Table Joins
+
+1. Attribute join: use pd.DataFrame.join() to combine information from multiple DataFrames with a shared index (by simpling matching values in the index).
+
+```
+europe = europe_boundaries.merge(europe_stats, on="name")
+```
+
+2. Spatial join:  With a spatial join, we combine GeoDataFrames based on the spatial relationship between the objects in the "geometry" columns.
+
+```
+# Use spatial join to match universities to countries in Europe
+european_universities = gpd.sjoin(universities, europe)
+```
