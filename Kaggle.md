@@ -54,6 +54,46 @@ reviews.country.replace("xx","xxx")
 concat(), join(), merge()
 ```
 
+# Intermediate ML
+
+- Decision Tree
+
+```
+from sklearn.tree import DecisionTreeRegressor
+model = DecisionTreeRegressor(random_state=1)
+```
+
+- pandas.DataFrame 多列 .Series 单列
+
+```
+pandas.read_csv()
+home_data.describe()
+```
+
+- sklearn
+
+1) Define 2) Fit 3) Predict 4) Evaluate
+
+- Model Validation
+
+predictive accuracy: Mean Absolute Error (MAE)
+
+sklearn.model_selection -> train_test_split
+
+sklearn.metrics -> mean_absolute_error
+
+- Underfitting, Overfitting
+
+Underfitting: not enough training
+
+Overfitting: too much divided
+
+- Random Forests
+
+```
+from sklearn.ensemble import RandomForestRegressor
+```
+
 # Intro to SQL
 
 **Structured Query Language (SQL)**
