@@ -915,3 +915,16 @@ my_union = two_mile_buffer.geometry.unary_union
 my_union.contains(releases.iloc[360].geometry)
 ```
 
+# Mahine Learning Explainability
+
+- Use Cases for Model Insights
+
+Debugging, Informing Feature Engineering, Directing Future Data Collection, Informing Human Decision-Making, Building Trust
+
+1. What features in the data did the model think are most important?
+
+2. For any single prediction from a model, how did each feature in the data affect that particular prediction?
+
+3. How does each feature affect the model's predictions in a big-picture sense (what is its typical effect when considered over a large number of possible predictions)?
+
+- Permutation Importance
