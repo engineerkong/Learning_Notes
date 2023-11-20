@@ -54,7 +54,7 @@ reviews.country.replace("xx","xxx")
 concat(), join(), merge()
 ```
 
-# Intro to ML
+# Intro to Machine Learning
 
 - Decision Tree
 
@@ -94,7 +94,7 @@ Overfitting: too much divided
 from sklearn.ensemble import RandomForestRegressor
 ```
 
-# Intermediate ML
+# Intermediate Machine Learning
 
 - missing values, categorical variables
 
