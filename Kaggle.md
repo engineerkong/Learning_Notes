@@ -975,3 +975,17 @@ shap_values = explainer.shap_values(data_for_prediction)
 shap.initjs()
 shap.force_plot(explainer.expected_value[1], shap_values[1], data_for_prediction)
 ```
+
+Advanced Uses of SHAP Values
+
+1. Summary Plots
+
+![Ew9X3su](https://github.com/engineerkong/Learning_Notes/assets/89781823/a2dc7960-228d-455e-b3d3-624fc892ae26)
+
+`shap.summary_plot(shap_values[1], val_X)`
+
+2. Dependence Contribution Plots
+
+![uQ2JmBm](https://github.com/engineerkong/Learning_Notes/assets/89781823/c2de167a-dcaa-4eda-9516-b19cc827e206)
+
+`shap.dependence_plot('Ball Possession %', shap_values[1], X, interaction_index="Goal Scored")`
