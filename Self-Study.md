@@ -38,3 +38,13 @@ Proof of Concept (POC) to Production Gap: from ML model code (small) to ML proje
 ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/c89838e0-b79d-4d3f-8c27-d86e5f7fae11)
 
 ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/15a885ad-5e3a-4aac-ac0c-b2a02a32d1aa)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d7b6eac0-d638-400b-ae76-cc4c006fc120)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/3e50f2aa-f3f7-4ce6-be4d-1a5f151fbda9)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/6d781d49-f8e5-4c1f-9f12-49a791db374c)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d9e7321f-55ac-4af9-bf64-edb09adfc19a)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/bf8926e6-09d8-4d4d-a123-aaed52fbb0f8)
