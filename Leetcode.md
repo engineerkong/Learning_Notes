@@ -59,7 +59,7 @@ Level-Order Traversal 遍历
 
 &, |, ^ (异或), ~ (反), << (乘2), >> (除2)
 
-**HashTable 哈希表**
+**HashTable 哈希表 (Dict)**
 
 Mapping key and value
 
@@ -70,6 +70,8 @@ Mapping key and value
 `for j,k in enumerate(nums)`
 
 `for i,(j,k) in enumerate(dict.items())`
+
+`my_dict[key] = value`
 
 ### Algorithm
 
