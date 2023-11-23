@@ -206,3 +206,30 @@ Proof of Concept (POC) to Production Gap: from ML model code (small) to ML proje
 ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/06339a51-4ca7-4f02-b237-ceef645aab49)
 
 ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/7c034a0b-efd4-4006-8bc0-b6c5ff83ffb7)
+
+1. computer-vision.ipynb
+2. customvision.ai
+3. face-service.ipynb
+4. form-recognizer.ipynb
+5. ocr.ipynb (识别字体)
+6. text-analysis.ipynb
+7. qnamaker.ai
+8. luis.ai (https://language.cognitive.azure.com/clu/projects)
+9. AutoML in machine learning studio
+10. Desiner in machine learning studio
+11. MNIST
+12. Data Labeling in machine learning studio
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/478fd747-1c74-42e8-a865-1150d2fb486e)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/a1ac8de9-4df3-4a47-9244-fffdf20de3fb)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/29f6d4f1-7cf4-460f-a623-fd3aac946bf5)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/539ee71d-e646-435d-8378-a74c62a6b6f9)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/eeb4e2ea-8895-4faf-876a-5d3ccd87f948)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/333e72c1-8f46-4529-a26e-cb9cf08296c0)
+
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/a4bf7f82-777d-4f6f-80d7-bdd605d5e426)
