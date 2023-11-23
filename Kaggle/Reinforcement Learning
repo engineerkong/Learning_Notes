@@ -1,0 +1,187 @@
+# Intro to Game AI and Reinforcement Learning
+
+- Play the Game
+
+```
+from kaggle_environments import make, evaluate
+# Create the game environment
+# Set debug=True to see the errors if your agent refuses to run
+env = make("connectx", debug=True)
+# List of available default agents
+print(list(env.agents))
+
+# Two random agents play one game round
+env.run(["random", "random"])
+# Show the game
+env.render(mode="ipython")
+```
+
+- One-Step Lookahead
+
+Game-Tree
+
+Heuristic
+
+"One-step lookahead" refers to the fact that the agent looks only one step (or move) into the future, instead of deeper in the game tree.
+
+```
+# Calculates score if agent drops piece in selected column
+def score_move(grid, col, mark, config):
+    next_grid = drop_piece(grid, col, mark, config)
+    score = get_heuristic(next_grid, mark, config)
+    return score
+
+# Helper function for score_move: gets board at next step if agent drops piece in selected column
+def drop_piece(grid, col, mark, config):
+    next_grid = grid.copy()
+    for row in range(config.rows-1, -1, -1):
+        if next_grid[row][col] == 0:
+            break
+    next_grid[row][col] = mark
+    return next_grid
+
+# Helper function for score_move: calculates value of heuristic for grid
+def get_heuristic(grid, mark, config):
+    num_threes = count_windows(grid, 3, mark, config)
+    num_fours = count_windows(grid, 4, mark, config)
+    num_threes_opp = count_windows(grid, 3, mark%2+1, config)
+    score = num_threes - 1e2*num_threes_opp + 1e6*num_fours
+    return score
+
+# Helper function for get_heuristic: checks if window satisfies heuristic conditions
+def check_window(window, num_discs, piece, config):
+    return (window.count(piece) == num_discs and window.count(0) == config.inarow-num_discs)
+    
+# Helper function for get_heuristic: counts number of windows satisfying specified heuristic conditions
+def count_windows(grid, num_discs, piece, config):
+    num_windows = 0
+    # horizontal
+    for row in range(config.rows):
+        for col in range(config.columns-(config.inarow-1)):
+            window = list(grid[row, col:col+config.inarow])
+            if check_window(window, num_discs, piece, config):
+                num_windows += 1
+    # vertical
+    for row in range(config.rows-(config.inarow-1)):
+        for col in range(config.columns):
+            window = list(grid[row:row+config.inarow, col])
+            if check_window(window, num_discs, piece, config):
+                num_windows += 1
+    # positive diagonal
+    for row in range(config.rows-(config.inarow-1)):
+        for col in range(config.columns-(config.inarow-1)):
+            window = list(grid[range(row, row+config.inarow), range(col, col+config.inarow)])
+            if check_window(window, num_discs, piece, config):
+                num_windows += 1
+    # negative diagonal
+    for row in range(config.inarow-1, config.rows):
+        for col in range(config.columns-(config.inarow-1)):
+            window = list(grid[range(row, row-config.inarow, -1), range(col, col+config.inarow)])
+            if check_window(window, num_discs, piece, config):
+                num_windows += 1
+    return num_windows
+```
+
+- N-Step Lookahead
+
+consider the potential moves
+
+Minimax Algorithm: the agent chooses moves to get a score that is as high as possible, and it assumes the opponent will counteract this by choosing moves to force the score to be as low as possible.
+
+```
+# Minimax implementation
+def minimax(node, depth, maximizingPlayer, mark, config):
+    is_terminal = is_terminal_node(node, config)
+    valid_moves = [c for c in range(config.columns) if node[0][c] == 0]
+    if depth == 0 or is_terminal:
+        return get_heuristic(node, mark, config)
+    if maximizingPlayer:
+        value = -np.Inf
+        for col in valid_moves:
+            child = drop_piece(node, col, mark, config)
+            value = max(value, minimax(child, depth-1, False, mark, config))
+        return value
+    else:
+        value = np.Inf
+        for col in valid_moves:
+            child = drop_piece(node, col, mark%2+1, config)
+            value = min(value, minimax(child, depth-1, True, mark, config))
+        return value
+```
+
+- Deep Reinforcement Learning
+
+find the weights of the neural network that (on average) maximize the agent's cumulative reward.
+
+```
+# Environment
+
+class ConnectFourGym(gym.Env):
+    def __init__(self, agent2="random"):
+        ks_env = make("connectx", debug=True)
+        self.env = ks_env.train([None, agent2])
+        self.rows = ks_env.configuration.rows
+        self.columns = ks_env.configuration.columns
+        # Learn about spaces here: http://gym.openai.com/docs/#spaces
+        self.action_space = spaces.Discrete(self.columns)
+        self.observation_space = spaces.Box(low=0, high=2, 
+                                            shape=(1,self.rows,self.columns), dtype=int)
+        # Tuple corresponding to the min and max possible rewards
+        self.reward_range = (-10, 1)
+        # StableBaselines throws error if these are not defined
+        self.spec = None
+        self.metadata = None
+    def reset(self):
+        self.obs = self.env.reset()
+        return np.array(self.obs['board']).reshape(1,self.rows,self.columns)
+    def change_reward(self, old_reward, done):
+        if old_reward == 1: # The agent won the game
+            return 1
+        elif done: # The opponent won the game
+            return -1
+        else: # Reward 1/42
+            return 1/(self.rows*self.columns)
+    def step(self, action):
+        # Check if agent's move is valid
+        is_valid = (self.obs['board'][int(action)] == 0)
+        if is_valid: # Play the move
+            self.obs, old_reward, done, _ = self.env.step(int(action))
+            reward = self.change_reward(old_reward, done)
+        else: # End the game and penalize agent
+            reward, done, _ = -10, True, {}
+        return np.array(self.obs['board']).reshape(1,self.rows,self.columns), reward, done, _
+```
+
+```
+class CustomCNN(BaseFeaturesExtractor):
+    
+    def __init__(self, observation_space: gym.spaces.Box, features_dim: int=128):
+        super(CustomCNN, self).__init__(observation_space, features_dim)
+        # CxHxW images (channels first)
+        n_input_channels = observation_space.shape[0]
+        self.cnn = nn.Sequential(
+            nn.Conv2d(n_input_channels, 32, kernel_size=3, stride=1, padding=0),
+            nn.ReLU(),
+            nn.Conv2d(32, 64, kernel_size=3, stride=1, padding=0),
+            nn.ReLU(),
+            nn.Flatten(),
+        )
+        # Compute shape by doing one forward pass
+        with th.no_grad():
+            n_flatten = self.cnn(
+                th.as_tensor(observation_space.sample()[None]).float()
+            ).shape[1]
+        self.linear = nn.Sequential(nn.Linear(n_flatten, features_dim), nn.ReLU())
+
+    def forward(self, observations: th.Tensor) -> th.Tensor:
+        return self.linear(self.cnn(observations))
+
+policy_kwargs = dict(
+    features_extractor_class=CustomCNN,
+)
+        
+# Initialize agent
+model = PPO("CnnPolicy", env, policy_kwargs=policy_kwargs, verbose=0)
+# Train agent
+model.learn(total_timesteps=60000)
+```
