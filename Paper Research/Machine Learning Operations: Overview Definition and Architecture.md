@@ -1,3 +1,5 @@
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/2495eb7c-e36e-46e5-a0b1-b77b9d125587)
+
 The paper "Machine Learning Operations (MLOps): Overview, Definition, and Architecture" provides a comprehensive look into the realm of MLOps, focusing on four main aspects: principles, components, roles, and architecture. Here are more detailed insights on these aspects based on the information extracted from the paper:
 
 ### 1. Principles of MLOps
