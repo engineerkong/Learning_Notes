@@ -55,6 +55,15 @@ Bread-First Search:
 
 Level-Order Traversal 遍历
 
+相同树：def isSameTree()
+
+s.val == t.val and self.isSameTree(s.left, t.left) and self.isSameTree(s.right, t.right)
+
+子树：def isSameTree() + def isSubTree()
+
+self.isSameTree(s, t) or self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
+
+
 **Logical Operation 逻辑运算符**
 
 &, |, ^ (异或), ~ (反), << (乘2), >> (除2)
@@ -166,3 +175,9 @@ prefix table and suffix table -> langest equal prefix and suffix -> next array: 
 `s_list[xx][::-1]`
 
 also str can not be assigned directly, need to be switched to list and switched back `s_list=list(s) s=''.join(s_list)`
+
+job of future, I am studying and what I want to do in the future.
+
+25 + x = y
+
+2(x+2) = （y +2） 2x + 2 = y
