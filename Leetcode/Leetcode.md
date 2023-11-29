@@ -205,3 +205,16 @@ job of future, I am studying and what I want to do in the future.
 1) **删除根元素**：通常在最小堆中，我们删除根元素（最小元素）。删除后，通常将堆的最后一个元素移动到根的位置。
 2) **比较与子节点**：将新的根元素与其子节点进行比较。在最小堆中，如果根元素大于它的任一子节点，那么它应与其最小的子节点交换位置。
 3) **递归或迭代**：继续下沉过程，将元素与其子节点比较并在必要时交换，直到它小于所有子节点或者成为叶节点。
+
+* yield:
+
+```
+def preorder(self, root: 'Node') -> List[int]:
+  def dfs(node):
+      if node:
+          yield node.val
+          for child in node.children:
+              yield from dfs(child)
+              
+  return [v for v in dfs(root)] 
+```
