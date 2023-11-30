@@ -41,6 +41,12 @@ operation: `append()`, `count()`, `index()`, `insert(0,'a')`, `pop()`, `remove()
 
 `dequeue()`: remove the head
 
+**Set 集合**
+
+`set(['c','a','b','b','a']) -> {'c','a','b'}`
+
+输出无序且唯一的集合，且 `{'c','a','b'} == {'a','b','c'} is True`
+
 **Tree 树**
 
 Depth-First Search:
