@@ -27,6 +27,8 @@ linked list (non-sequential storage)
 
 SortedList() automatically sort the elements in list - `sorted(list)`
 
+or `list.sort()`
+
 operation: `append()`, `count()`, `index()`, `insert(0,'a')`, `pop()`, `remove()`, `reverse()`, `sort()`
 
 **Stack 栈**
@@ -224,3 +226,5 @@ def preorder(self, root: 'Node') -> List[int]:
               
   return [v for v in dfs(root)] 
 ```
+
+* set(sorted()) -> set, sorted(set()) -> list
