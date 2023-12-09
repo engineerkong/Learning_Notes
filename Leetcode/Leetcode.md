@@ -228,3 +228,7 @@ def preorder(self, root: 'Node') -> List[int]:
 ```
 
 * set(sorted()) -> set, sorted(set()) -> list
+
+* `for x in count(n + 1):`: x不断+1，由原n+1 到原n+2
+
+* `y,v=divmod(y,10)`: 同时取商y和余数v
