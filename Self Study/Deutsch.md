@@ -7,3 +7,14 @@
 - moralische, materialle Wertvorstellung
 - akurat: accurate 准确的
 - Fassade: was wir uns vorstellen wollen
+
+### Entschuldigunh ausdrückenÖ
+- zum Ausdruck bringen
+- Standpunkt: Meinung
+- nehmen xxx auf mich
+- unaufrichtig Ö unangemessen
+- ernsthaft
+- um dem Regelfall handeln: steht in der Regel
+- beleidgend unhöfflich
+- Das kann jeden treffen.
+- erwischen: sehen
