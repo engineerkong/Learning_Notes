@@ -8,7 +8,7 @@
 - akurat: accurate 准确的
 - Fassade: was wir uns vorstellen wollen
 
-### Entschuldigunh ausdrückenÖ
+### Entschuldigunh ausdrücken:
 - zum Ausdruck bringen
 - Standpunkt: Meinung
 - nehmen xxx auf mich
