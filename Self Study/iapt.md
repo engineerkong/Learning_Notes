@@ -23,3 +23,9 @@ AM-Fertigungsroute (Additive Manufacturing): von einzigartigen Bauteildesigns un
 - Life Science (Medizin, Implantate, Werkzeuge, Anschauungsmodelle)
 - Energy (Erneuerbare Energien, Grüne Produktion, Wasserstofftechnologie)
 - Security, Defense (Virtualisierung, Prozesskettenautomatisierung, Prozessqualifizierung)
+
+## Technologien von IAPT
+- Laser Powder Bed Fusion (选择性激光熔化)
+- Sinter AM (烧结)
+- Directed Energy Deposition (焊接)
+- Polymer AM (塑料)
