@@ -1,7 +1,7 @@
 # IAPT (Fraunhofer-Enrichtung für Additive Produktionstechnologien IAPT)
 
 AM-Fertigungsroute (Additive Manufacturing): von einzigartigen Bauteildesigns und Systemlösungen, auch auf Prozess- und Materialebene, bis hin zu Fabrikplanung und Virtualisierung.
-- Unreife Idee: ML + AM
+- Unreife Idee: ML + AM (Medical AI)
 - 3D Druck
 
 ## Kernkompentenz von IAPT
