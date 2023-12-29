@@ -12,9 +12,24 @@
 - zum Ausdruck bringen
 - Standpunkt: Meinung
 - nehmen xxx auf mich
-- unaufrichtig Ö unangemessen
+- unaufrichtig-unangemessen
 - ernsthaft
 - um dem Regelfall handeln: steht in der Regel
 - beleidgend unhöfflich
 - Das kann jeden treffen.
 - erwischen: sehen
+
+### Datenschutz:
+- Fingerabdruck / Fußabdruck
+- Spuren im Internet hinterlassen
+- Der gläserne Mensch
+- das Kennwort
+- Gut: Produkt
+- preisgeben: legen etwas offen 
+- Anspruch 权利
+- willkürlich 任意地
+- von etwas Gebrauch machen: benutzen
+- begehren: 需求
+- vage: 模糊的
+- erheben: verlangen
+- lauschen: 偷听
