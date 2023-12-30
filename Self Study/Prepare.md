@@ -22,7 +22,8 @@
 
 ## Software Entwickler (HiWi)
 - Schwerpunkte: Entwicklung von Asynchronisierung und GUI durch Workflow
-- Details: Ich entwickelte eine Software namens TEQO im Rahmen der Teamarbeit. TEQO ist eine physikalische Messsoftware, die auf Plexy als Baseline basiert und speziell für einige physikalische Messgeräte in unserem Forschungsinstitut konzipiert ist. Diese Software ermöglicht es, Geräte zu steuern und zu konfigurieren und physikalische Ergebnisse als Feedback zu erhalten. Der Einsatzprozess ist jedoch nicht parallel. Zudem wird die Bedienung über eine grafische Benutzeroberfläche (GUI) realisiert. Nach meiner Entwicklung konnten einige physikalische Messgeräte sowie die GUI im Simulationsmessprozess teilweise parallel betrieben werden. Der von mir entwickelte Code wurde nach den CI/CD-Tests automatisiert entwickelt, getestet und ausgeliefert.
+- Details:
+Ich entwickelte eine Software namens TEQO im Rahmen der Teamarbeit. TEQO ist eine physikalische Messsoftware, die auf Plexy als Baseline basiert und speziell für einige physikalische Messgeräte in unserem Forschungsinstitut konzipiert ist. Diese Software ermöglicht es, Geräte zu steuern und zu konfigurieren und physikalische Ergebnisse als Feedback zu erhalten. Der Einsatzprozess ist jedoch nicht parallel. Zudem wird die Bedienung über eine grafische Benutzeroberfläche (GUI) realisiert. Nach meiner Entwicklung konnten einige physikalische Messgeräte sowie die GUI im Simulationsmessprozess teilweise parallel betrieben werden. Der von mir entwickelte Code wurde nach den CI/CD-Tests automatisiert entwickelt, getestet und ausgeliefert.
 
 ## Simultane Form- und Posen-Rekonstruktion von Verkehrsteilnehmern für Überwachungskameras und LiDAR-Punktwolken (Studienarbeit)
 
