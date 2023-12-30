@@ -15,12 +15,14 @@
 ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/fb065914-6584-447a-8064-cc022dcaed1c)
 
 ## Technical Support (Praktikum)
-- Schwerpunkte: KI Anwendung, Kundensupport, IoT
+- Schwerpunkte: KI Anwendung, IoT, Kundensupport
 - Details:
 1. Hikvision-Kameras und andere intelligente Geräte bieten viele KI-Anwendungen, wie Gesichtserkennung, Bewegungserkennung usw. Als Technical Support verstand ich zuerst alle diese Funktionen und ihre Anwendungsmethoden vollständig. Außerdem beherrschte ich die Verbindung zwischen intelligenten Geräten, was Kenntnisse im Bereich des Internet of Thing umfasst. Dies sind die grundlegenden Kenntnisse, um die Produkte zu testen.
 2. Ich war häufig in Kontakt mit Firmenkunden, um ihnen neue Produkte und Funktionen von Hikvision in Form von Präsentationen vorzustellen. Ich sammlte auch deren Vorschläge und Ideen und leitete sie nach einer Auswahl an die Entwicklungsabteilung weiter, um die Produkte zu optimieren. Neben Firmenkunden haben auch Einzelhandelskunden oft Fragen zur Anwendung und Qualität der Produkte, die ich ebenfalls beantwortete.
 
 ## Software Entwickler (HiWi)
+- Schwerpunkte: Entwicklung von Asynchronisierung und GUI durch Workflow
+- Details: Ich entwickelte eine Software namens TEQO im Rahmen der Teamarbeit. TEQO ist eine physikalische Messsoftware, die auf Plexy als Baseline basiert und speziell für einige physikalische Messgeräte in unserem Forschungsinstitut konzipiert ist. Diese Software ermöglicht es, Geräte zu steuern und zu konfigurieren und physikalische Ergebnisse als Feedback zu erhalten. Der Einsatzprozess ist jedoch nicht parallel. Zudem wird die Bedienung über eine grafische Benutzeroberfläche (GUI) realisiert. Nach meiner Entwicklung konnten einige physikalische Messgeräte sowie die GUI im Simulationsmessprozess teilweise parallel betrieben werden. Der von mir entwickelte Code wurde nach den CI/CD-Tests automatisiert entwickelt, getestet und ausgeliefert.
 
 ## Simultane Form- und Posen-Rekonstruktion von Verkehrsteilnehmern für Überwachungskameras und LiDAR-Punktwolken (Studienarbeit)
 
