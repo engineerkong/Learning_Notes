@@ -2,10 +2,17 @@
 
 ## Effect of Algorithms and Hyperparameters on Sim2Real Transfer (Masterarbeit)
 - Schwerpunkte: RL Modelle trainieren, Sim2Real Transfer, Ergebnisse visualisieren.
-1. finden passende Simulation Environment (myGym) und RL package (SB3) für das Training der RL Agenture, um Robotsaufgaben zu lösen.
-2. trainieren einzelne Agentur und evaluieren die Leistung, inklusiv Zeiteffizienz, Erfolgsratio der Agentur an Robotsaufgaben. Die Aufgaben beinhalten Reach, Push, PnP.
-3. trainieren mehrere Agenture mit verschiedenen Hyperparameters (Learning rate, Discount factor) und Algorithms (SAC, PPO). Das Prozess lief auf Cloud Service und führte zu mehreren trainierten RL Modelle.
-4. implementieren die Modelle auf Real Environment (Niryo Robot), evaluieren und visualisieren die Unterschiede der Leistungen von allen Modelle. Und fassen die Faziten über die Einfluss von Hyps und Algos auf Sim2Real Transfer: .
+- Schritte:
+1. Definieren der erforderlichen Roboter-Aufgaben: Reach, Push, PnP. Finden eines RLPakets (SB3) sowie der zu evaluierenden Algos und HPs.
+2. Finden und Anpassen einer geeigneten Simulationsumgebung (myGym) für das Training der RL-Agenten.
+3. Probe-Training in der Simulationsumgebung mit Algorithmen aus dem RL-Paket unter Verwendung der Standard-Hyperparameter.
+4. Analyse des Trainingsprozesses (mit Weight & Bias), Festlegung von Reward-Funktionen für verschiedene Roboter-Aufgaben und der erforderlichen Trainingszeit.
+5. Training mehrerer RL-Modelle mit verschiedenen Hyperparametern und Algorithmen auf einem Cloud-Server, jeweils angepasst an unterschiedliche Roboter-Aufgaben.
+6. Implementierung der Modelle in einer realen Umgebung (Niryo Robot), Evaluation und Visualisierung (mit autorl-landscape) der Leistungsunterschiede aller Modelle.
+7. Zusammenfassung der Erkenntnisse über den Einfluss von Hyperparametern und Algorithmen auf den Sim2Real-Transfer: Bei der SAC-Training für die Reach-Aufgaben der Roboter führte die Verwendung einer mittleren learning-rate und niedrigerer discount-factor schnell zu einer verbesserten Leistung des Trainingsmodells in der realen Umgebung, um die Lücke beim Sim2Real-Transfer zu verringern.
+- Diese Studie ist jedoch nicht ausgereift, da aufgrund von Zeitbeschränkungen nicht viele Hyperparameter-Kombinationen und Seed-Gruppen gewählt wurden, was zu weniger glatten Ergebnissen und erhöhter Zufälligkeit führte. Die Verallgemeinerung der Trainingszeit führte dazu, dass einige Hyperparameter-Kombinationen im Trainingsumfeld nicht erfolgreich trainiert wurden, was die Aussagekraft für den Sim2Real-Transfer reduzierte.
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/133bc288-7434-4ce3-b782-0e7ff6f3b43c)
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/fb065914-6584-447a-8064-cc022dcaed1c)
 
 ## Technical Support (Praktikum)
 
