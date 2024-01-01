@@ -36,6 +36,7 @@
 5. Entfernung von Punkten auf der Ebene und Ausreißern aus den Ergebnissen und Abgleich mit der LiDAR-Punktwolke der entsprechenden Versuchsdaten mittels KD-Baum-Methode zur Gewinnung von 3D-Positionsdaten. Anwendung der PCA-Methode zur Bestimmung der 3D-Haltungsinformationen.
 - Fazit:
   Die Kombination von Kameras und LiDAR kann genaue 3D-Informationen über Verkehrsteilnehmer liefern, was eine höhere Genauigkeit als die direkte Vorhersage von 3D-Informationen durch DL in Kameras bietet. Allerdings werden nur einige Verkehrsteilnehmer erkannt, und die 3D-Haltungsinformationen können die Ausrichtung der Fahrzeuge nicht genau darstellen. Diese Aspekte bedürfen weiterer Forschung und Verbesserung.
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/5155909d-08f9-46bc-9bbe-1b23cb709afd)
 
 ## Entwurf und Simulation flexibler Manipulatoren (Bachelorarbeit)
 
