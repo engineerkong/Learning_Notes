@@ -48,6 +48,8 @@
 - Details:
   Dies ist die Beschreibung des Roboter-Kampfwettbewerbs, veranstaltet von DJI. In diesem Wettbewerb gewinnen die Roboter, indem sie feindliche Roboter beschießen und deren Lebenspunkte verringern. Der Autor nahm an diesem Wettbewerb teil und war verantwortlich für das Design und die Herstellung der Roboterstruktur sowie für Teile der Bewegungs- und Sehalgorithmen des Roboters. Der Hauptfokus des Autors lag auf einem Roboter, der bewegliche Objekte auf dem Spielfeld greift, um dem eigenen Roboter einen Vorteil (Buff) zu verschaffen. Zuerst entwarf er mit der UG-Software die dreidimensionalen Zeichnungen des Roboters, dann fertigte er mit 3D-Druck, Laserschneiden und CNC-Maschinen die einzelnen Komponenten an, montierte sie und fügte Antriebselemente wie Zylinder und Elektroschocker hinzu. Anschließend entwickelte der Autor den Sehalgorithmus des Roboters, damit dieser mit Unterstützung von Computer Vision die Greifaufgaben ausführen konnte. Am Ende erreichte das Roboterteam seiner Schule einen der Top 32 Plätze in ganz China.
 ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/365121d5-7e51-4e1f-a6e6-33a43031cc67)
+![Weixin Image_20240102144801](https://github.com/engineerkong/Learning_Notes/assets/89781823/2b677426-7ffc-4c4e-a188-8d59d6aaf4a7)
+![Weixin Image_20240102144039](https://github.com/engineerkong/Learning_Notes/assets/89781823/4a99c62e-761f-4850-81b9-72211687815f)
 
 # Kurse
 
