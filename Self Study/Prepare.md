@@ -42,22 +42,34 @@
 
 - Details:
   Dies ist ein Artikel über mechanisches Design. Er beschreibt eine einzigartige Art von flexibler Roboterhand, die sich von traditionellen Zwei-Klauen-Roboterhänden unterscheidet. Das Design dieser flexiblen Roboterhand basiert auf der Methode, Gas in einen abgeschlossenen Silikonkörper zu injizieren und es wieder abzulassen. Wenn das Gas voll ist, sind die Finger in einer aufrechten Position; wenn das Gas abnimmt, biegen sich die Finger aufgrund der Form des internen Stützelements. Ich habe das Design dieser Roboterhand mit der UG-Software abgeschlossen und die Belastungssituation beim Greifen von Objekten mit der ANSYS-Software analysiert.
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/efcf403f-f69c-49aa-8293-5ba83985dfb9)
 
 ## Robomaster Designer (Wettbewerb)
 - Details:
   Dies ist die Beschreibung des Roboter-Kampfwettbewerbs, veranstaltet von DJI. In diesem Wettbewerb gewinnen die Roboter, indem sie feindliche Roboter beschießen und deren Lebenspunkte verringern. Der Autor nahm an diesem Wettbewerb teil und war verantwortlich für das Design und die Herstellung der Roboterstruktur sowie für Teile der Bewegungs- und Sehalgorithmen des Roboters. Der Hauptfokus des Autors lag auf einem Roboter, der bewegliche Objekte auf dem Spielfeld greift, um dem eigenen Roboter einen Vorteil (Buff) zu verschaffen. Zuerst entwarf er mit der UG-Software die dreidimensionalen Zeichnungen des Roboters, dann fertigte er mit 3D-Druck, Laserschneiden und CNC-Maschinen die einzelnen Komponenten an, montierte sie und fügte Antriebselemente wie Zylinder und Elektroschocker hinzu. Anschließend entwickelte der Autor den Sehalgorithmus des Roboters, damit dieser mit Unterstützung von Computer Vision die Greifaufgaben ausführen konnte. Am Ende erreichte das Roboterteam seiner Schule einen der Top 32 Plätze in ganz China.
+![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/365121d5-7e51-4e1f-a6e6-33a43031cc67)
 
 # Kurse
 
 ## Zertifikate
 ### Microsoft AI
-
-## Machine Learning
-
-## Computer Vision
-
-## Robotik
-
-## Mechatronik
-
-## Mechanische Konstruktion
+- Details:
+  Microsoft Azure beinhaltet verschiedenen Dienste einschließlich Storage, Database, Computing, Analytics, DevOps, Network sowie andere Dienste, die für die Datenspeicherung, -verarbeitung und -anwendung verwendet werden. Im AZ-900 Zertifikat habe ich hauptsächlich einen Überblick über Azure und diese Dienste erlangt. Im AI-900 Zertifikat habe ich spezifisch ML Studio angewendet, einschließlich der Nutzung von Computer Vision, Custom Vision, Language Service, Speech Service, Document Intelligence und Azure ML Studio. Im DP-900 Zertifikat habe ich ein tieferes Verständnis von Daten, wie sie von Azure definiert werden, erlangt. Ich habe auch gelernt, wie man in Azure verschiedene Daten speichert und verarbeitet, und Daten mit den umfangreichen Azure Data Analytics Werkzeuge analysiert.
+## Master
+### Machine Learning
+- Hier habe ich das Wissen über die Grundlagen von Machine Learning erlernt. Von Einzelnen Neuronen bis zur tiefen Netzstruktur, vom Feed-forward bis zur Backpropagation. Im Kurs wurden auch Supervised, Semi-Supervised, Unsupervised sowie Reinforcement Learning studiert und angewendet, was auch in den zuvor erwähnten praktischen Erfahrungen berücksichtigt wurde. Darüber hinaus habe ich auch die Evaluierungsmethoden für Modelle gelernt, wie Precision, Recall, F1-Score, Confusion matrix usw.
+### Computer Vision
+- Computer Vision beinhaltet grundlegender Bildkonzepte (Pixel, Farben) und Bildverarbeitungstechniken (Filtern, Kantenentdeckung, Bildverbesserung). Ich habe gelernt, Schlüsselmerkmale in Bildern zu erkennen und zu extrahieren sowie Merkmale abzugleichen. Außerdem habe ich auch gelernt, durch die Analyse von Bildern mehrerer Kameras die 3D-Struktur einer Szene zu verstehen und Bewegungsabschätzungen durchzuführen. Darüber hinaus habe ich gelernt, Machine Learning Algorithmen, insbesondere mit Convolutional Neural Networks, für Bilderkennung, Klassifizierung und Detektion anzuwenden. Schließlich habe ich mich mit fortgeschrittenen Techniken wie Szenenverständnis, semantischer Segmentierung und Gesichtserkennung auf Basis von Bildern vertraut gemacht.
+### Robotik
+- Designs von Robotern (mechanische Struktur und Antriebssystem), des Studiums der Kinematik und Dynamik sowie der Kontrollmethoden, Sensoren und Aktuatoren. Die mechanische Struktur besteht aus Gliedern (Teilen) und Gelenken (Gelenken), und das Verständnis der Bewegungs- und Kraftbeziehungen in Mehrfachgelenkstrukturen ist für das Antreiben von Robotern sehr wichtig. Ich habe auch die praktische Erfahrung mit der Programmierung von Robotern in Python, die bereits bei der Praxiserfahrungen erwähnt wurde.
+### Mechatronik
+- Mechatronik integriert vielfältiges Wissen von Mechanik, Machinenbau, Maschinenkonstruktion und Elektronik. Die habe ich schon seit Bachelorstudium studiert.
+## Bachelor
+### Mechanik
+-  Mechanik (einschließlich Statik, Dynamik, Festigkeitslehre, Fluidmechanik), Materialwissenschaft (inklusive verschiedener Metalle und Verbundmaterialien, deren Härte, Festigkeit, Steifigkeit usw., sowie Wärmebehandlungsverfahren wie Abschrecken).
+### Machinenbau
+- Maschinenbau (mit verschiedenen Fertigungstechniken wie Gießen, Schweißen, mechanische Bearbeitung, Wärmebehandlung wie Abschrecken und 3D-Druck)
+### Maschinenkonstruktion
+- Maschinenkonstruktion (einschließlich der Gestaltung von Wellen, Zahnrädern, Lagern, Federn und der Fähigkeit, 2D- und 3D-Maschinenzeichnungen zu erstellen).
+### Elektronik
+- Im elektronischen Bereich umfasst das Studium elektronische Steuerungssysteme, Bauteile wie Trigger, Sensoren, Motoren und zudem die Signalverarbeitung als wichtigen Teil des elektronischen Systems.
