@@ -33,3 +33,9 @@
 - vage: 模糊的
 - erheben: verlangen
 - lauschen: 偷听
+
+### Wolfgang Bochert
+- Motiv: Leitfrage主题, Motivation
+- horchen: konzentried hören
+- Fließen: Boden im Badezimmer
+- Gesicht verlieren: 丢面子
