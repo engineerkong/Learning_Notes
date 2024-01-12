@@ -227,6 +227,13 @@ def preorder(self, root: 'Node') -> List[int]:
   return [v for v in dfs(root)] 
 ```
 
+* 数组唯一化(unique)
+
+```
+unique_array = []
+[unique_array.append(x) for x in res if x not in unique_array]
+```
+
 * set(sorted()) -> set, sorted(set()) -> list
 
 * `for x in count(n + 1):`: x不断+1，由原n+1 到原n+2
