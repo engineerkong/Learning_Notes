@@ -231,7 +231,7 @@ def preorder(self, root: 'Node') -> List[int]:
 
 ```
 unique_array = []
-[unique_array.append(x) for x in res if x not in unique_array]
+[unique_array.append(x) for x in array if x not in unique_array]
 ```
 
 * set(sorted()) -> set, sorted(set()) -> list
