@@ -239,3 +239,17 @@ unique_array = []
 * `for x in count(n + 1):`: x不断+1，由原n+1 到原n+2
 
 * `y,v=divmod(y,10)`: 同时取商y和余数v
+
+* 回溯操作
+
+```
+def backtrack(index: int):
+   if index == len(digits):
+       combinations.append("".join(combination))
+   else:
+       digit = int(digits[index])
+       for letter in dic[digit]:
+           combination.append(letter)
+           backtrack(index + 1)
+           combination.pop()
+```
