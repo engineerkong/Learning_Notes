@@ -4,6 +4,22 @@ f(n) <= c*g(n) --> f(n) = O(g(n))
 
 O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(n^3) < O(2^n) < O(n!) < O(n^n)
 
+`O((1+n)*n/2) = O(n^2) #取最高此项`
+
+```
+指数复杂度O(2^n):
+return func(n-1) + func(n-1)
+```
+```
+对数复杂度O(logn): 
+def func(n):
+    return func(n//2)+1
+```
+
+```
+均摊复杂度 — 分析总体复杂度
+```
+
 1. Basic Operation 基础操作 (constant)
 
 2. Sequential Operation 顺序操作 (addition)
