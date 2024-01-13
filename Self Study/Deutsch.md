@@ -39,3 +39,7 @@
 - horchen: konzentried hören
 - Fließen: Boden im Badezimmer
 - Gesicht verlieren: 丢面子
+
+- Dem Schaubild ist zu entnehmen, dass...
+- Erhebung 数据
+- ausfuhren 执行
