@@ -90,6 +90,12 @@ Mapping key and value
 
 `my_dict[key] = value`
 
+`del my_dict['z']`
+
+`sorted(original_dict, reverse=True)`
+
+`'z' > 'a'`
+
 ### Algorithm
 
 **Sorting Algorithm**
