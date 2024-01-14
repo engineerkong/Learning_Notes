@@ -16,6 +16,10 @@ n1 = ListNode(4)
 n1.next = n2
 ```
 
+```
+dummy = ListNode(0, head) # 设置dummy node便于计算
+```
+
 **Stack 栈**
 
 ```
