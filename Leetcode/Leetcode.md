@@ -34,6 +34,10 @@ queue.popleft() # remove the head
 
 **String 字符串**
 
+```
+'z' > 'a'
+```
+
 **List 表** 
 list, tuple:
 
@@ -84,27 +88,79 @@ def isSubTree() # 判断子树 + isSameTree()
 
 **Graph 图**
 
+```
+# 由 顶点(vertex) 和 边(edge) 组成
+# 分为 有向图 和 无向图
+```
+
+```
+# 邻接矩阵
+vertices = [1, 2, 3, 4, 5]
+edges = [[0, 1, 1, 1, 1],
+         [1, 0, 0, 1, 0],
+         [1, 0, 0, 0, 1],
+         [1, 1, 0, 0, 1],
+         [1, 0, 1, 1, 0]]
+```
+
+```
+# 邻接表
+vertices = [1, 2, 3, 4, 5]
+edges = [[1, 2, 3, 4],
+         [0, 3],
+         [0, 4],
+         [0, 1, 4],
+         [0, 2, 3]]
+```
+
+
 **Heap 堆**
+
+```
+# 基于 完全二叉树，堆排序，优先队列
+# 完全二叉树: 设二叉树深度为k，若二叉树除第k层外的其它各层（第1至k-1层）的节点达到最大个数，且处于第k层的节点都连续集中在最左边，则称此二叉树为完全二叉树。
+# 分为 大顶堆，小顶堆: 任意节点的值不大于（小于）其父节点的值
+```
+
+```
+heap = []
+# 元素入堆
+heappush(heap, 1)
+heappush(heap, 4)
+heappush(heap, 2)
+heappush(heap, 6)
+heappush(heap, 8)
+# 元素出堆（从小到大）
+heappop(heap) # -> 1
+heappop(heap) # -> 2
+heappop(heap) # -> 4
+heappop(heap) # -> 6
+heappop(heap) # -> 8
+```
 
 **HashTable 哈希表 (Dict)**
 
-Mapping key and value
+```
+# Mapping key and value
+dic = {}
+dic[key] = value
+del dic[key]
+```
 
-`.keys()`, `.values()`, `.items()`
+```
+# .keys() .values() .items()
+```
 
-`dic = {}` -> `dic[i]=xx`
+```
+# enumerate
+for j,k in enumerate(nums):
+for i,(j,k) in enumerate(dict.items()):
+```
 
-`for j,k in enumerate(nums)`
-
-`for i,(j,k) in enumerate(dict.items())`
-
-`my_dict[key] = value`
-
-`del my_dict['z']`
-
-`sorted(original_dict, reverse=True)`
-
-`'z' > 'a'`
+```
+# sort
+sorted(original_dict, reverse=True)
+```
 
 
 
