@@ -1,4 +1,116 @@
-### Time Complexity
+## 算法：搜索，查找，排序，双指针，回溯，分治，动态规划，贪心，位运算，数学
+
+## 数据结构：
+
+**Array 数组**
+
+```
+array = []
+array.append(1)
+```
+
+**Linked List 链表**
+
+```
+n1 = ListNode(4)
+n1.next = n2
+```
+
+**Stack 栈**
+
+```
+stack = []
+stack.append(1) # add the tail
+stack.pop() # remove the tail
+```
+
+**Queue 队列**
+
+```
+queue = deque()
+queue.append(1) # add the tail
+queue.popleft() # remove the head
+```
+
+**String 字符串**
+
+**List 表** 
+list, tuple:
+
+sequential list (sequential storage)
+
+linked list (non-sequential storage)
+
+SortedList() automatically sort the elements in list - `sorted(list)`
+
+or `list.sort()`
+
+operation: `append()`, `count()`, `index()`, `insert(0,'a')`, `pop()`, `remove()`, `reverse()`, `sort()`
+
+**Set 集合**
+
+`set(['c','a','b','b','a']) -> {'c','a','b'}`
+
+输出无序且唯一的集合，且 `{'c','a','b'} == {'a','b','c'} is True`
+
+**Tree 树**
+
+```
+n1 = TreeNode(3)
+n1.left = n2
+n1.right = n3
+
+# Depth-First Search:
+# 1. Preorder Traversal 前序: root, left, right
+# 2. Inorder Traversal 中序: left, root, right
+# 3. Postorder Traversal 后序: left, right, root
+
+# Bread-First Search:
+# Level-Order Traversal 遍历
+
+def isSameTree(): # 相同树
+    s.val == t.val and self.isSameTree(s.left, t.left) and self.isSameTree(s.right, t.right)
+
+def isSubTree() # 判断子树 + isSameTree()
+    self.isSameTree(s, t) or self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
+```
+
+
+**Graph 图**
+
+**Heap 堆**
+
+**HashTable 哈希表 (Dict)**
+
+Mapping key and value
+
+`.keys()`, `.values()`, `.items()`
+
+`dic = {}` -> `dic[i]=xx`
+
+`for j,k in enumerate(nums)`
+
+`for i,(j,k) in enumerate(dict.items())`
+
+`my_dict[key] = value`
+
+`del my_dict['z']`
+
+`sorted(original_dict, reverse=True)`
+
+`'z' > 'a'`
+
+
+
+
+
+
+
+
+
+
+
+## Time Complexity
 
 f(n) <= c*g(n) --> f(n) = O(g(n))
 
@@ -34,83 +146,20 @@ def func(n):
 
 ### Data Structure
 
-**List 表** 
-list, tuple:
 
-sequential list (sequential storage)
 
-linked list (non-sequential storage)
 
-SortedList() automatically sort the elements in list - `sorted(list)`
 
-or `list.sort()`
 
-operation: `append()`, `count()`, `index()`, `insert(0,'a')`, `pop()`, `remove()`, `reverse()`, `sort()`
 
-**Stack 栈**
 
-`push()`: add the tail
 
-`pop()`: remove the tail
-
-**Queue 队列**
-
-`enqueue()`: add the tail
-
-`dequeue()`: remove the head
-
-**Set 集合**
-
-`set(['c','a','b','b','a']) -> {'c','a','b'}`
-
-输出无序且唯一的集合，且 `{'c','a','b'} == {'a','b','c'} is True`
-
-**Tree 树**
-
-Depth-First Search:
-
-1. Preorder Traversal 前序: root, left, right
-
-2. Inorder Traversal 中序: left, root, right
-
-3. Postorder Traversal 后序: left, right, root
-
-Bread-First Search:
-
-Level-Order Traversal 遍历
-
-相同树：def isSameTree()
-
-s.val == t.val and self.isSameTree(s.left, t.left) and self.isSameTree(s.right, t.right)
-
-子树：def isSameTree() + def isSubTree()
-
-self.isSameTree(s, t) or self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
 
 
 **Logical Operation 逻辑运算符**
 
 &, |, ^ (异或), ~ (反), << (乘2), >> (除2)
 
-**HashTable 哈希表 (Dict)**
-
-Mapping key and value
-
-`.keys()`, `.values()`, `.items()`
-
-`dic = {}` -> `dic[i]=xx`
-
-`for j,k in enumerate(nums)`
-
-`for i,(j,k) in enumerate(dict.items())`
-
-`my_dict[key] = value`
-
-`del my_dict['z']`
-
-`sorted(original_dict, reverse=True)`
-
-`'z' > 'a'`
 
 ### Algorithm
 
