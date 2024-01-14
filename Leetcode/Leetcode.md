@@ -39,23 +39,22 @@ queue.popleft() # remove the head
 ```
 
 **List 表** 
-list, tuple:
 
-sequential list (sequential storage)
-
-linked list (non-sequential storage)
-
-SortedList() automatically sort the elements in list - `sorted(list)`
-
-or `list.sort()`
-
-operation: `append()`, `count()`, `index()`, `insert(0,'a')`, `pop()`, `remove()`, `reverse()`, `sort()`
+```
+# list, tuple: sequential list (sequential storage), linked list (non-sequential storage)
+# 操作: .append(), .count(), .index(), .insert(0,'a'), .pop(), .remove(), .reverse(), .sort()
+list.sort() # 更改原地列表
+sorted(list) # 创建新的已排序列表
+SortedList(list) # 可变数据结构，更改原地列表
+```
 
 **Set 集合**
 
-`set(['c','a','b','b','a']) -> {'c','a','b'}`
-
-输出无序且唯一的集合，且 `{'c','a','b'} == {'a','b','c'} is True`
+```
+# 输出无序且唯一的集合
+set(['c','a','b','b','a']) -> {'c','a','b'} # 唯一
+{'c','a','b'} == {'a','b','c'} is True # 无序
+```
 
 **Tree 树**
 
