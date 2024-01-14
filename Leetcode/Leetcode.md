@@ -59,7 +59,9 @@ operation: `append()`, `count()`, `index()`, `insert(0,'a')`, `pop()`, `remove()
 n1 = TreeNode(3)
 n1.left = n2
 n1.right = n3
+```
 
+```
 # Depth-First Search:
 # 1. Preorder Traversal 前序: root, left, right
 # 2. Inorder Traversal 中序: left, root, right
@@ -67,10 +69,14 @@ n1.right = n3
 
 # Bread-First Search:
 # Level-Order Traversal 遍历
+```
 
+```
 def isSameTree(): # 相同树
     s.val == t.val and self.isSameTree(s.left, t.left) and self.isSameTree(s.right, t.right)
+```
 
+```
 def isSubTree() # 判断子树 + isSameTree()
     self.isSameTree(s, t) or self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
 ```
