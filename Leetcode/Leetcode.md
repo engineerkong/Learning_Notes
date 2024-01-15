@@ -168,7 +168,12 @@ sorted(original_dict, reverse=True)
 # 复杂度
 
 ```
-均摊复杂度 — 分析总体复杂度
+# 均摊复杂度 — 分析总体复杂度
+1. Basic Operation 基础操作 (constant)
+2. Sequential Operation 顺序操作 (addition)
+3. Loop Operation 循环操作 (multiplication)
+4. Branch Operation 分支操作 (maximum)
+timeit.Timer # calculate the time consumption
 ```
 
 ### 时间复杂度
@@ -230,17 +235,6 @@ def algorithm(N):
 # 暂存空间 + 输出空间
 # 暴力枚举 - 空间最优，辅助哈希表 - 时间最优
 ```
-
-
-1. Basic Operation 基础操作 (constant)
-
-2. Sequential Operation 顺序操作 (addition)
-
-3. Loop Operation 循环操作 (multiplication)
-
-4. Branch Operation 分支操作 (maximum)
-
-`timeit.Timer` - calculate the time consumption
 
 ## Programm = Data Structure + Algorithm
 
