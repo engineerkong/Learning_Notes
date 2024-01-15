@@ -1,15 +1,15 @@
 ## 算法：搜索，查找，排序，双指针，回溯，分治，动态规划，贪心，位运算，数学
 
-## 数据结构：
+# 数据结构：
 
-**Array 数组**
+### Array 数组
 
 ```
 array = []
 array.append(1)
 ```
 
-**Linked List 链表**
+### Linked List 链表
 
 ```
 n1 = ListNode(4)
@@ -20,7 +20,7 @@ n1.next = n2
 dummy = ListNode(0, head) # 设置dummy node便于计算
 ```
 
-**Stack 栈**
+### Stack 栈
 
 ```
 stack = []
@@ -28,7 +28,7 @@ stack.append(1) # add the tail
 stack.pop() # remove the tail
 ```
 
-**Queue 队列**
+### Queue 队列
 
 ```
 queue = deque()
@@ -36,13 +36,13 @@ queue.append(1) # add the tail
 queue.popleft() # remove the head
 ```
 
-**String 字符串**
+### String 字符串
 
 ```
 'z' > 'a'
 ```
 
-**List 表** 
+### List 表
 
 ```
 # list, tuple: sequential list (sequential storage), linked list (non-sequential storage)
@@ -52,7 +52,7 @@ sorted(list) # 创建新的已排序列表
 SortedList(list) # 可变数据结构，更改原地列表
 ```
 
-**Set 集合**
+### Set 集合
 
 ```
 # 输出无序且唯一的集合
@@ -60,7 +60,7 @@ set(['c','a','b','b','a']) -> {'c','a','b'} # 唯一
 {'c','a','b'} == {'a','b','c'} is True # 无序
 ```
 
-**Tree 树**
+### Tree 树
 
 ```
 n1 = TreeNode(3)
@@ -89,7 +89,7 @@ def isSubTree() # 判断子树 + isSameTree()
 ```
 
 
-**Graph 图**
+### Graph 图
 
 ```
 # 由 顶点(vertex) 和 边(edge) 组成
@@ -117,7 +117,7 @@ edges = [[1, 2, 3, 4],
 ```
 
 
-**Heap 堆**
+### Heap 堆
 
 ```
 # 基于 完全二叉树，堆排序，优先队列
@@ -141,7 +141,7 @@ heappop(heap) # -> 6
 heappop(heap) # -> 8
 ```
 
-**HashTable 哈希表 (Dict)**
+### HashTable 哈希表 (Dict)
 
 ```
 # Mapping key and value
@@ -165,37 +165,72 @@ for i,(j,k) in enumerate(dict.items()):
 sorted(original_dict, reverse=True)
 ```
 
+# 复杂度
 
+```
+均摊复杂度 — 分析总体复杂度
+```
 
+### 时间复杂度
 
-
-
-
-
-
-
-
-## Time Complexity
-
-f(n) <= c*g(n) --> f(n) = O(g(n))
-
+```
+# 最差情况
 O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(n^3) < O(2^n) < O(n!) < O(n^n)
+f(n) <= c*g(n) --> f(n) = O(g(n))
+O((1+n)*n/2) = O(n^2) # 取最高此项
+```
 
-`O((1+n)*n/2) = O(n^2) #取最高此项`
+```
+# 解释 O(logN)循环或递归每层排除一半
+def algorithm(N):
+    count = 0
+    i = N
+    while i > 1:
+        i = i / 2
+        count += 1
+    return count
 
-```
-指数复杂度O(2^n):
-return func(n-1) + func(n-1)
-```
-```
-对数复杂度O(logn): 
 def func(n):
     return func(n//2)+1
 ```
 
 ```
-均摊复杂度 — 分析总体复杂度
+# 解释 O(NlogN)循环加循环每层排除一半
+def algorithm(N):
+    count = 0
+    i = N
+    while i > 1:
+        i = i / 2
+        for j in range(N):
+            count += 1
 ```
+
+```
+# 解释 O(2^N) 递归每层分裂两倍
+def algorithm(N):
+    if N <= 0: return 1
+    count_1 = algorithm(N - 1)
+    count_2 = algorithm(N - 1)
+    return count_1 + count_2
+```
+
+```
+# 解释 O(N!) 递归每层分裂N,N-1倍
+def algorithm(N):
+    if N <= 0: return 1
+    count = 0
+    for _ in range(N):
+        count += algorithm(N - 1)
+    return count
+```
+
+### 空间复杂度
+```
+# 最差情况
+# 暂存空间 + 输出空间
+# 暴力枚举 - 空间最优，辅助哈希表 - 时间最优
+```
+
 
 1. Basic Operation 基础操作 (constant)
 
