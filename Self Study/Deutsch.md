@@ -36,6 +36,22 @@
 - Dem Schaubild ist zu entnehmen, dass...
 - Erhebung 数据
 - ausfuhren 执行
+- beträchtlich=gross,stark
+- anschaulich=konkret
+- gehoben Deutsch=hoch Deutsch
+- um mir zu helfen
+- einen Einwand erheben=widerlegen
+- Als Erstes ein Wort zur=zunächst
+- Abgesehen von=außer
+- In Anlehnung an=In Bezug auf
+- unentbehrlich=unverzichtbar
+- denkwürdig=bedeutsam=wichtig
+- ausschlaggebend=bedeutend
+- sich berufen auf einen Zitat 基于
+- vorwegnehemen=vorher sagen 提前说明
+- feststellen=bemerken, festlegen=ausmachen
+- Es handelt sich dabei, um die Geburtsurkunden meiner Großeltern.
+- ausschließen 除外，排除
 
 ## Lesen
 
