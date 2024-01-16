@@ -18,8 +18,29 @@ n1.next = n2
 
 ```
 dummy = ListNode(0, head) # 设置dummy node便于计算
+pre = None # 设置pre，以不将None计算在链表中
+dummy = ListNode(0)
+...
+return dummy.next
+
+```
+# 倒序
+while cur:
+    nex = cur.next
+    cur.next = pre
+    pre = cur
+    cur = nex
 ```
 
+```
+# 循环检索
+pa,pb = headA,headB
+while pa != pb:
+    pa = pa.next if pa else headB
+    pb = pb.next if pb else headA
+    
+return pa
+```
 ### Stack 栈
 
 ```
