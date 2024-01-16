@@ -24,6 +24,8 @@ dummy = ListNode(0)
 return dummy.next
 
 ```
+
+```
 # 倒序
 while cur:
     nex = cur.next
@@ -38,9 +40,9 @@ pa,pb = headA,headB
 while pa != pb:
     pa = pa.next if pa else headB
     pb = pb.next if pb else headA
-    
 return pa
 ```
+
 ### Stack 栈
 
 ```
