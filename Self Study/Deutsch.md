@@ -56,10 +56,18 @@
 - feststellen=bemerken, festlegen=ausmachen
 - Es handelt sich dabei, um die Geburtsurkunden meiner Großeltern.
 - ausschließen 除外，排除
-5.
-
-
-
+5. 
+- im Uhrzeigersinn
+- die Besatzung
+- gravierend
+- ideologisch
+- gelangen
+- allmählich
+- unterbinden
+- fliehen, geflohen
+- herunterfallen
+- 40 Jahre her
+- oh Mann
 
 ## Lesen
 
