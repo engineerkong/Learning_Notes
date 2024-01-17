@@ -9,6 +9,10 @@ array = []
 array.append(1)
 ```
 
+```
+for i in range(3,-1,-1): # 3,2,1,0
+```
+
 ### Linked List 链表
 
 ```
