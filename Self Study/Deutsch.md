@@ -57,44 +57,44 @@
 - Es handelt sich dabei, um die Geburtsurkunden meiner Großeltern.
 - ausschließen 除外，排除
 5. 
-- im Uhrzeigersinn
-- die Besatzung
-- gravierend
-- ideologisch
-- gelangen
-- allmählich
-- unterbinden
-- fliehen, geflohen
-- herunterfallen
-- 40 Jahre her
+- im Uhrzeigersinn/gegen dem Uhrzeigersinn
+- die Besatzung 占领军
+- gravierend 严重的
+- ideologisch 政治思想上的
+- gelangen 到达，取得
+- allmählich 逐渐的
+- unterbinden 消除
+- fliehen, geflohen 逃离
+- herunterfallen 倒塌
+- 40 Jahre her 40年过去了
 - oh Mann
 
 ## Lesen
 
 1.
-- Scherben
-- übermutig
-- eingebildet
-- aussetzen
-- Schnabel
-- Drossel
-- verspotten
-- erstbesten
-- Gabe
-- bestehen auf
-- Pfarrer
-- bereuen
-- elend
-- winzig
-- bücken
-- Diener
-- flechten
-- auslachen
-- gebrauchen
-- prächtig
-- herrlich
-- schämen
-- Wichtel
+- die Scherbe 碎片
+- übermütig 傲慢的
+- eingebildet 自大的
+- aussetzen 丢弃，放逐
+- der Schnabel 嘴
+- die Drossel 鸠
+- verspotten 嘲笑
+- erstbeste 最先碰到的一个
+- die Gabe 捐赠，才能
+- bestehen auf 坚持/bestehen aus 组成
+- der Pfarrer 牧师
+- bereuen 后悔
+- elend 不幸的
+- winzig 微小的
+- bücken 弯腰
+- der Diener 仆人
+- flechten 编织
+- auslachen 嘲笑
+- gebrauchen 利用
+- prächtig 壮丽的
+- herrlich 壮丽的
+- sich schämen 感到羞愧
+- der Wichtel 地精
 2.
 - auf die Probe stellen
 - Strohhalm
