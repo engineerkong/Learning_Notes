@@ -56,10 +56,87 @@
 - feststellen=bemerken, festlegen=ausmachen
 - Es handelt sich dabei, um die Geburtsurkunden meiner Großeltern.
 - ausschließen 除外，排除
+5.
+
+
+
 
 ## Lesen
 
 1.
+- Scherben
+- übermutig
+- eingebildet
+- aussetzen
+- Schnabel
+- Drossel
+- verspotten
+- erstbesten
+- Gabe
+- bestehen auf
+- Pfarrer
+- bereuen
+- elend
+- winzig
+- bücken
+- Diener
+- flechten
+- auslachen
+- gebrauchen
+- prächtig
+- herrlich
+- schämen
+- Wichtel
+2.
+- auf die Probe stellen
+- Strohhalm
+- versprechen
+- Boten
+- Mitleid
+- Schneeflocken
+- Witwe
+- Brunnen
+- Verzweiflung
+- ohnmächtig
+- gehen ein Stück
+- rütteln
+3.
+- Geiß
+- Stube
+- hüten
+- verstellen
+- Krämer
+- Kreide
+- sich verweigern
+- ahnen
+- streuen
+- Waschschüssel
+- verschlingen
+- sperrangelweit
+- schnarchend
+- zappeln
+- rücken
+4.
+- klatschnass
+- Fersen
+- Daunen
+- entsetzllich
+5.
+- Raben
+- verwandeln
+- glingen D
+- Fluch
+- taufen
+- schöpfen
+- Krug
+- Geflatter
+- trösten
+- plagen
+- Andenken
+- aufschließen
+- Zwerg
+- kullern
+6.
 - denkbar 理想的
 - großzügig 大度的
 - legendär 传奇的
@@ -77,8 +154,7 @@
 - angeblich 表面上的，据称
 - die Bestechung 贿赂
 - spielerisch ernst
-
-2.
+7.
 - hauen raus 开发出
 - abschneiden 切下，出发
 - der Puritaner 清教徒
