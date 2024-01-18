@@ -9,10 +9,6 @@ array = []
 array.append(1)
 ```
 
-```
-for i in range(3,-1,-1): # 3,2,1,0
-```
-
 ### Linked List 链表
 
 ```
@@ -64,8 +60,21 @@ queue.popleft() # remove the head
 ```
 
 ### String 字符串
+```
+str.replace('.', ' ') # 用' '代替'.'
+str.strip() # 删除首尾空格
+str.reverse() # 翻转单词列表
+' '.join(str) # 拼接为字符串并返回
+```
 
 ```
+# str and list switch:
+list(str) # Change str to list
+s = ''.join(s) # Change list to str
+s = ''.join(filter(str.isalnum,s)) # filter everything except alphabet and number to build str
+str.lower() # change all alphabet to lowercase or uppercase
+str_list = str.split() # Delete space and change to list
+' '.join(list) is different from ''.join(list) # it will have space split between each element
 'z' > 'a'
 ```
 
@@ -263,10 +272,14 @@ def algorithm(N):
 # 暴力枚举 - 空间最优，辅助哈希表 - 时间最优
 ```
 
-## Programm = Data Structure + Algorithm
+## Others
+```
+return -1  # 如果未找到，返回-1表示失败
+```
 
-### Data Structure
-
+```
+for i in range(3,-1,-1): # 3,2,1,0
+```
 
 
 
@@ -310,19 +323,7 @@ def algorithm(N):
 
 ### Notes
 
-* str and list switch:
 
-`set()`: Change str to list
-
-`s = ''.join(s)`: Change list to str
-
-`s = ''.join(filter(str.isalnum,s))`: filter everything except alphabet and number to build str
-
-`str.lower()`: change all alphabet to lowercase or uppercase
-
-`str_list = str.split()`: Delete space and change to list
-
-`' '.join(list)` is different from `''.join(list)`: it will have space split between each string
 
 * double pointer:
 
