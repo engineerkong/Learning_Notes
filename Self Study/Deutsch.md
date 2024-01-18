@@ -96,54 +96,54 @@
 - sich schämen 感到羞愧
 - der Wichtel 地精
 2.
-- auf die Probe stellen
-- Strohhalm
-- versprechen
-- Boten
-- Mitleid
-- Schneeflocken
-- Witwe
-- Brunnen
-- Verzweiflung
-- ohnmächtig
-- gehen ein Stück
-- rütteln
+- auf die Probe stellen 将其检验
+- der Strohhalm 吸管
+- versprechen 答应，应允
+- der Bote 信差，征兆
+- das Mitleid 同情
+- die Schneeflocke 雪花
+- die Witwe 寡妇
+- der Brunnen 水井，喷泉
+- die Verzweiflung 绝望
+- ohnmächtig 失去知觉，昏倒的
+- gehen ein Stück weiter 往前进一步
+- rütteln 摇动
 3.
-- Geiß
-- Stube
-- hüten
-- verstellen
-- Krämer
-- Kreide
-- sich verweigern
-- ahnen
-- streuen
-- Waschschüssel
-- verschlingen
-- sperrangelweit
-- schnarchend
-- zappeln
-- rücken
+- die Geiß 山羊
+- die Stube 房间
+- sich vor/zu etwas hüten 提防/避免 
+- (sich) verstellen (伪装) 阻断 
+- der Krämer 商贩 
+- die Kreide 粉笔
+- sich verweigern 拒绝
+- ahnen 预感
+- streuen 散播
+- die Waschschüssel 洗手盆 
+- verschlingen 缠绕，吞掉
+- sperrangelweit 敞开的
+- schnarchen 打鼾
+- zappeln 坐立不安
+- rücken 挪，拉
 4.
-- klatschnass
-- Fersen
-- Daunen
-- entsetzllich
+- klatschnass 湿透的
+- die Fersen 脚跟
+- die Daune 绒毛
+- entsetzllich 非常的，可怕的
 5.
-- Raben
-- verwandeln
-- glingen D
-- Fluch
-- taufen
-- schöpfen
-- Krug
-- Geflatter
-- trösten
-- plagen
-- Andenken
-- aufschließen
-- Zwerg
-- kullern
+- der Raben 乌鸦 
+- verwandeln 转换
+- glingen + D 成功
+- der Fluch 灾祸，诅咒
+- taufen 洗礼
+- schöpfen 汲取
+- der Krug 壶
+- das Geflatter 扑腾 
+- trösten 安慰
+- plagen 折磨
+- das Andenken 纪念，纪念品
+- aufschließen 排除
+- der Zwerg 矮人
+- kullern 滚动
 6.
 - denkbar 理想的
 - großzügig 大度的
@@ -171,6 +171,14 @@
 - die Aufklärung 启蒙运动
 - abspulen 背诵
 - der Wechselkurs 汇率 
+8.
+- herumlaufen 漫步
+- drastisch 赤裸裸的
+- kippen 翻转，倾倒
+- die Integration 融合
+- der Anteil 部分
+- tatverdächtig 有作案嫌疑的
+- die Abschiebung 驱逐
 
 
 ## Schreiben
