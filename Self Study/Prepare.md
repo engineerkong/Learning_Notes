@@ -75,3 +75,7 @@
 - Maschinenkonstruktion (einschließlich der Gestaltung von Wellen, Zahnrädern, Lagern, Federn und der Fähigkeit, 2D- und 3D-Maschinenzeichnungen zu erstellen).
 ### Elektronik
 - Im elektronischen Bereich umfasst das Studium elektronische Steuerungssysteme, Bauteile wie Trigger, Sensoren, Motoren und zudem die Signalverarbeitung als wichtigen Teil des elektronischen Systems.
+
+
+
+
