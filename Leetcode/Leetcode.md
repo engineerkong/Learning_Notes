@@ -75,7 +75,6 @@ s = ''.join(filter(str.isalnum,s)) # filter everything except alphabet and numbe
 str.lower() # change all alphabet to lowercase or uppercase
 str_list = str.split() # Delete space and change to list
 ' '.join(list) is different from ''.join(list) # it will have space split between each element
-'z' > 'a'
 ```
 
 ### List 表
@@ -281,8 +280,16 @@ return -1  # 如果未找到，返回-1表示失败
 for i in range(3,-1,-1): # 3,2,1,0
 ```
 
+```
+# 找出并用ASCII码获得是数字的字符
+'0' <= c <= '9' 
+ord(c) - ord('0')
+```
 
-
+```
+# 字符的比较是ASCII码的比较
+'z' > 'a'
+```
 
 
 
