@@ -183,6 +183,7 @@ heappop(heap) # -> 8
 dic = {}
 dic[key] = value
 del dic[key]
+dic.get(key,0)
 ```
 
 ```
