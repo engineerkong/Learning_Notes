@@ -51,6 +51,10 @@ stack.append(1) # add the tail
 stack.pop() # remove the tail
 ```
 
+```
+# 栈转化为队列
+StackA -> StackB
+```
 ### Queue 队列
 
 ```
@@ -292,7 +296,9 @@ ord(c) - ord('0')
 'z' > 'a'
 ```
 
-
+```
+zip(range(), range()) # 实现滑动窗口的左右边界 i, j 同时遍历
+```
 
 
 
