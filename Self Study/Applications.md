@@ -7,3 +7,5 @@
 A research proposal/description of your approach to the above project (max one page excluding references).
 
 data mining, machine learning, azure, scRNA, software
+
+GIS, GNSS, SLAM, IMU
