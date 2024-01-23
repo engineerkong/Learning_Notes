@@ -69,7 +69,24 @@
 - herunterfallen 倒塌
 - 40 Jahre her 40年过去了
 - oh Mann
+6.
+- hätten + Vollverb(PII)
+- hätten + Vollverb + Modal
+- hätten + Modal(PII als Vollverb)
+- haben + Vollverb(PII)
+- haben + Vollverb Modal
+- haben + Modal
 
+- **hätten lernen sollen**
+- hätten früher machen sollen
+- früher hätten machen sollen
+
+- Das Zimmer war so leise, dass ich das Kingel hätte hören müssen.
+- Hättest du fleißig gelernt, wärst du nicht in der Prüfung durchgefallen.
+- Wenn/Sollte Sie noch Fragen haben,
+- Hätten Sie noch Fragen,...
+- Das musst du gemachen haben (Ratschlag)
+- Das hättest du machen sollen (Vorwurf)
 ## Lesen
 
 1.
