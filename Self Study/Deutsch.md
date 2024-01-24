@@ -87,6 +87,16 @@
 - Hätten Sie noch Fragen,...
 - Das musst du gemachen haben (Ratschlag)
 - Das hättest du machen sollen (Vorwurf)
+7.  
+- bündig
+- langatmigkeit
+- beheben
+- Rechtschreibfehler
+- Grammatikfehler
+- Idomatische Fehler
+- Satzbaufehler
+- Interferenzfehler
+
 ## Lesen
 
 1.
@@ -200,6 +210,7 @@
 
 
 ## Schreiben
+**Schreib einfach und von Deutsch aufbauend.**
 
 1. Die Verlobung: Heute geht es um das Thema Verlobung. Es war letzten Weihnachten in Xiaoshan. Zuvor hatten wir beide Großväter und -mütter besucht. Jedoch sind sie zur Verlobung nicht gekommen, aufgrund körperlicher Probleme. Meine Großmutter war zuvor gestürzt und hatte sich die Hand gebrochen. Die Verlobung fand am Mittag im Xiaoshan Hotel statt. Am frühen Morgen fuhr ich zusammen mit Qichen Zhang und meiner Tante nach Tongxiang, um meine Braut abzuholen. Danach fuhren wir zunächst zum alten Haus meiner anderen Großmutter, da hier unsere Wurzeln liegen. Meine Großmutter ist im letzten Sommer wegen einer Krankheit verstorben. Dort haben wir uns gebetet und sind dann zum Hotel gefahren. Dort hatten meine Verwandten alles sehr gut vorbereitet. Sie hatten die Platte mit unseren Namen und Wunschworten montiert und andere Dinge wie Blumen und Coca Cola sehr elegant auf den Tisch gelegt. Als wir ankamen, waren alle fröhlich. Wir haben die Verlobungsurkunde unterzeichnet und einen Fingerabdruck von uns hinterlassen. Danach begannen wir zu essen. Zuerst sollte ich etwas über das Willkommen aller Gäste sagen. Aber ich hatte mich zuvor nicht vorbereitet, und deshalb war es nicht optimal. Danach gingen wir zu allen Verwandten einen nach dem anderen. Meine Mutter und Yues Mutter haben uns allen vorgestellt, damit wir uns alle kennenlernen konnten. Nach dem Essen kamen einige Verwandte zu unserer Wohnung, um den zukünftigen Wohnsitz von Yue zu sehen. Ein so fröhlicher Moment!
 
