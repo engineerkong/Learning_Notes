@@ -9,3 +9,5 @@ A research proposal/description of your approach to the above project (max one p
 data mining, machine learning, azure, scRNA, software
 
 GIS, GNSS, SLAM, IMU
+
+Telekom: Automatisierungsprozesse, Qualitätssicherung, Textanalyse-Lösungen in der Cloud (LLM, Kubernetes, Docker)
