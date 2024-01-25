@@ -4,10 +4,10 @@
 
 **Masterarbeit, Studienarbeit, studentische Mitarbeit, Praktikum, eigene Projekte**
 
-A research proposal/description of your approach to the above project (max one page excluding references).
+**Warum würdest du gerne bei inovex arbeiten? Was hat dich angesprochen?**
+Inovex ist bekannt für seine Expertise in den Bereichen Data Engineering und Machine Learning. Ich schätze die Möglichkeit, meine Fähigkeiten in diesen Bereichen weiterzuentwickeln und an Projekten bei Inovex zu arbeiten. 
+Die agilen Arbeitsmethoden und vielfältigen Kundenprojekte bei Inovex sprechen mich besonders an. Ich glaube fest daran, dass agile Methoden eine effektive und flexible Möglichkeit bieten, den Kunden in den Fokus zu stellen und schnell auf Veränderungen zu reagieren. Vielfältige Kundenprojekte halte ich für sehr spannend. Sie bieten außerdem eine hervorragende Gelegenheit, mein Know-how und meine Fähigkeiten kontinuierlich in der Praxis zu erweitern.
 
-data mining, machine learning, azure, scRNA, software
-
-GIS, GNSS, SLAM, IMU
-
-Telekom: Automatisierungsprozesse, Qualitätssicherung, Textanalyse-Lösungen in der Cloud (LLM, Kubernetes, Docker)
+**Du hast dich auf die Stelle "Data Engineer / Machine Learning Engineer" beworben. Wie stellst du dir eine ideale Verteilung der Aufgaben in Data Engineering und ML Engineering vor? Beschreibe uns gerne, welche Aufgaben dir Spaß machen würden und mit welchen Technologien du gerne arbeiten würdest.**
+In Bezug auf die ideale Verteilung der Aufgaben zwischen Data Engineering und ML Engineering sehe ich eine enge Zusammenarbeit und Vernetzung beider Bereiche als entscheidend an. Als Data Engineer würde ich mich darauf konzentrieren, robuste und skalierbare Datenarchitekturen zu entwickeln, Datenpipelines zu konzipieren und zu implementieren sowie Datenbanken zu verwalten. Als Machine Learning Engineer wäre meine Hauptaufgabe die Entwicklung und Implementierung von Machine Learning-Modellen, das Training dieser Modelle und ihre Integration in die Datenpipelines. Beide Bereiche ergänzen sich gegenseitig und sind unerlässlich für den Erfolg von Projekten. 
+Beide Aufgaben machen mir großen Spaß. Als Masterabsolvent mit Erfahrung im Machine Learning würde ich gerne weiter in diesem Bereich arbeiten und mit modernen Technologien arbeiten. Mit grundlegenden Kenntnissen im Machine Learning im Hinterkopf sind moderne Technologien effektiver und bieten eine flexiblere Rechenleistung. Als Azure AI Engineer Associate qualifiziert, empfehle ich besonders die Knowledge Mining Funktion auf Azure, die besonders unseren Zielen für datengetriebene Lösungen entspricht. Währenddessen können wir die Open-Source-Modelle weiter bearbeiten. Mit Hilfe von Python, SQL, TensorFlow, JSON und anderen Tools sowie Frameworks können wir die Modelle optimieren und individuelle Lösungen gemäß den Anforderungen des Kunden erstellen.
