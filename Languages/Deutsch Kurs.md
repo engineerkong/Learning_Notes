@@ -95,3 +95,12 @@
 - Idomatische Fehler
 - Satzbaufehler
 - Interferenzfehler
+8.
+- auskurieren = heilen
+- Übelkeit = fühlt sich zu kotzen
+- angeschlagen = schwach
+- kerngesund = sehr gesund
+- ein wenig blass um die Nase = ausbrüten (Hennen brütet ihrer Eier aus)
+- Rezepte ausstellen
+- Migräne = ein Art von Kopfschmerzen
+- dumpf = hollow
