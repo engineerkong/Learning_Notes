@@ -1,0 +1,110 @@
+## Lesen
+1.
+- die Scherbe 碎片
+- übermütig 傲慢的
+- eingebildet 自大的
+- aussetzen 丢弃，放逐
+- der Schnabel 嘴
+- die Drossel 鸠
+- verspotten 嘲笑
+- erstbeste 最先碰到的一个
+- die Gabe 捐赠，才能
+- bestehen auf 坚持/bestehen aus 组成
+- der Pfarrer 牧师
+- bereuen 后悔
+- elend 不幸的
+- winzig 微小的
+- bücken 弯腰
+- der Diener 仆人
+- flechten 编织
+- auslachen 嘲笑
+- gebrauchen 利用
+- prächtig 壮丽的
+- herrlich 壮丽的
+- sich schämen 感到羞愧
+- der Wichtel 地精
+2.
+- auf die Probe stellen 将其检验
+- der Strohhalm 吸管
+- versprechen 答应，应允
+- der Bote 信差，征兆
+- das Mitleid 同情
+- die Schneeflocke 雪花
+- die Witwe 寡妇
+- der Brunnen 水井，喷泉
+- die Verzweiflung 绝望
+- ohnmächtig 失去知觉，昏倒的
+- gehen ein Stück weiter 往前进一步
+- rütteln 摇动
+3.
+- die Geiß 山羊
+- die Stube 房间
+- sich vor/zu etwas hüten 提防/避免 
+- (sich) verstellen (伪装) 阻断 
+- der Krämer 商贩 
+- die Kreide 粉笔
+- sich verweigern 拒绝
+- ahnen 预感
+- streuen 散播
+- die Waschschüssel 洗手盆 
+- verschlingen 缠绕，吞掉
+- sperrangelweit 敞开的
+- schnarchen 打鼾
+- zappeln 坐立不安
+- rücken 挪，拉
+4.
+- klatschnass 湿透的
+- die Fersen 脚跟
+- die Daune 绒毛
+- entsetzllich 非常的，可怕的
+5.
+- der Raben 乌鸦 
+- verwandeln 转换
+- glingen + D 成功
+- der Fluch 灾祸，诅咒
+- taufen 洗礼
+- schöpfen 汲取
+- der Krug 壶
+- das Geflatter 扑腾 
+- trösten 安慰
+- plagen 折磨
+- das Andenken 纪念，纪念品
+- aufschließen 排除
+- der Zwerg 矮人
+- kullern 滚动
+6.
+- denkbar 理想的
+- großzügig 大度的
+- legendär 传奇的
+- die Ohrfeige 巴掌
+- bedenken 思考
+- das Markenzeichen 特点，品牌
+- die Büste 半身塑像
+- erobern 征服
+- der Scherz 玩笑
+- nicht in Frage kommen 不合适
+- umstellen 调整
+- gescheit 聪明的
+- sich vor Verantwortung drücken 逃避
+- die Anschuldigung 指控
+- angeblich 表面上的，据称
+- die Bestechung 贿赂
+- spielerisch ernst
+7.
+- hauen raus 开发出
+- abschneiden 切下，出发
+- der Puritaner 清教徒
+- ausleben 任意发展
+- die Abspaltung 分裂
+- die Aufklärung 启蒙运动
+- abspulen 背诵
+- der Wechselkurs 汇率 
+8.
+- herumlaufen 漫步
+- drastisch 赤裸裸的
+- kippen 翻转，倾倒
+- die Integration 融合
+- der Anteil 部分
+- tatverdächtig 有作案嫌疑的
+- die Abschiebung 驱逐
+
