@@ -104,3 +104,4 @@
 - Rezepte ausstellen
 - Migräne = ein Art von Kopfschmerzen
 - dumpf = hollow
+- lähmend ´betäubt
