@@ -2,12 +2,25 @@ FIT (Institute for Applied Information Technology): A good 550 colleagues work i
 
 FAIR-Data- und Distributed-Analytics-Teams in Sankt Augustin: In our 'Data Science & Artificial Intelligence' department we cover the entire spectrum of knowledge-based value creation and decision support from data. Develop state-of-the-art solutions in the field of machine learning.
 
-Interdisciplinary; Application-oriented; Implement research results; Analyze requirements, Meetings, Publish, Presentation, Acquisition of new research projects, scholarships and fellowships, Cultivate and maintain a professional network
+Keywords: Interdisciplinary; Application-oriented; Implement of research results; Analyze requirements; Meetings; Publish; Presentation; Acquisition of new research projects, scholarships and fellowships; Professional network.
 
-- Semantic-Web-Technologien
+'Data Science & Artificial Intelligence' department PROJECTS: 
+- Knowledge Graphs
+- Data Management
+- FAIR Data and Distributed Analytics
+- Data Protection and Sovereignty
+- Process Mining
+- Intelligent Data Analytics
+- Center for Process Intelligence (CPI)
+- Cloud Innovation Center
+- Human-centred continuing eduation
+
+Tasks Know-How:
+- Semantic-Web-Technology
 - The analysis of multimodal data
 - Python, C++, SQL
 - Software, DevOps, MLOps
 - Tensorflow, PyTorch
 - State-of-the-art machine learning frameworks and libraries
 - Promotion
+
