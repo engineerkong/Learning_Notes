@@ -31,11 +31,17 @@ Thank email to all interviewers.
 
 **FAIR**
 FAIR stands for Findable, Accessible, Interoperable and Reusable
+
 数据管理和组织，元数据标准化，数据存储和共享平台，技术标准和协议，许可和使用政策，教育和培训
+
 Standard, Database, Policies -> ML
+
 data manage (inclusive PID) to data-driven models, 
+
 Analytics algorithms visit the decentral data centres and return (and travel on) with trained models of what they have learned from the data.
-- distributed healthcare data analytics
+
+distributed healthcare data analytics:
+- Azure Data Lakes - security, distributed - Hadoop?
 
 ## Use Case: Predictive Analytics in Healthcare
 ### Objective:
