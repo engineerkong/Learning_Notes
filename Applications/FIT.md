@@ -24,3 +24,6 @@
 - State-of-the-art machine learning frameworks and libraries
 - Promotion
 
+**Proposal**:
+
+Thank email to all interviewers.
