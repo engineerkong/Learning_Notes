@@ -42,6 +42,7 @@ Analytics algorithms visit the decentral data centres and return (and travel on)
 
 distributed healthcare data analytics:
 - Azure Data Lakes - security, distributed - Hadoop?
+- ML can be used optimaler on FAIR data, I think that's why we build FAIR data.
 
 ## Use Case: Predictive Analytics in Healthcare
 ### Objective:
