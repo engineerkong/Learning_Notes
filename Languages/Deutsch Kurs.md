@@ -1,58 +1,59 @@
 ## Kurse
 1.
-- Reichtum: 财富
-- Diskripanz: Unterschied
+- das Reichtum: wealth
+- die Diskrepanz: der Unterschied
 - subjektiv: 主观, objektiv: 客观
 - selektive Wahrnehmung: 选择性知觉
 - selbsterfüllende Prophezeiung: 自我实现的预言
-- moralische, materialle Wertvorstellung
+- moralische, materialle Wertvorstellung 价值观
 - akurat: accurate 准确的
-- Fassade: was wir uns vorstellen wollen
-- zum Ausdruck bringen
-- Standpunkt: Meinung
-- nehmen xxx auf mich
-- unaufrichtig-unangemessen
-- ernsthaft
+- die Fassade: was wir uns vorstellen wollen
+- zum Ausdruck bringen: Manche Menschen können ihre Gefühle leicht zum Ausdruck bringen.
+- der Standpunkt: die Meinung
+- auf mich nehmen: Warum sollte ich die Schuld auf mich nehmen?
+- unaufrichtig: unangemessen
+- ernsthaft: serious
 2.
 - um dem Regelfall handeln: steht in der Regel
-- beleidgend unhöfflich
-- Das kann jeden treffen.
-- erwischen: sehen
-- Fingerabdruck / Fußabdruck
+- beleidgend: offensive
+- Das kann jeden treffen: that can happen to anyone
+- erwischen: Er muss sich beeilen, wenn er den Zug erwischen will.
+- Fingerabdruck/Fußabdruck
 - Spuren im Internet hinterlassen
 - Der gläserne Mensch
-- das Kennwort
-- Gut: Produkt
-- preisgeben: legen etwas offen 
-- Anspruch 权利
-- willkürlich 任意地
+- das Kennwort: password
+- das Gut: das Produkt
+- preisgeben: legen etwas offen, veröffentlich
+- der Anspruch 权利
+- willkürlich: arbitrary
 - von etwas Gebrauch machen: benutzen
 3.
-- begehren: 需求
-- vage: 模糊的
-- erheben: verlangen
+- begehren: desire. Er bot seiner Frau alles, was sie begehrte.
+- vage: vague 模糊的. Unsere Weltreise war am Anfang nur eine vage Idee.
+- erheben: raise. Er erhob sein Glas und sagte: "Prost!"
+- verlangen: demand. Die Mitarbeiter verlangen höhere Löhne.
 - lauschen: 偷听
-- Motiv: Leitfrage主题, Motivation
+- das Motiv: Leitfrage主题, Motivation
 - horchen: konzentried hören
-- Fließen: Boden im Badezimmer
+- Fließe: tile. Boden im Badezimmer. Der Teppich verrutscht leicht auf den Fliesen.
 - Gesicht verlieren: 丢面子
 - Dem Schaubild ist zu entnehmen, dass...
-- Erhebung 数据
-- ausfuhren 执行
+- Erhebung durchführen: contribute to a survey
+- ausfuhren: 执行. Die Softwareinstallation wird automatisch ausgeführt.
 4.
 - beträchtlich=gross,stark
 - anschaulich=konkret
 - gehoben Deutsch=hoch Deutsch
 - um mir zu helfen
-- einen Einwand erheben=widerlegen
+- einen Einwand erheben=widerlegen: objection, opposition.
 - Als Erstes ein Wort zur=zunächst
 - Abgesehen von=außer
 - In Anlehnung an=In Bezug auf
 - unentbehrlich=unverzichtbar
 - denkwürdig=bedeutsam=wichtig
-- ausschlaggebend=bedeutend
+- ausschlaggebend=bedeutend: Meine Reisen haben eine ausschlaggebende Rolle in meinem Leben gespielt.
 - sich berufen auf einen Zitat 基于
-- vorwegnehemen=vorher sagen 提前说明
+- vorwegnehemen=vorher sagen: Produktdesigner nehmen die Bedürfnisse der Kunden vorweg.
 - feststellen=bemerken, festlegen=ausmachen
 - Es handelt sich dabei, um die Geburtsurkunden meiner Großeltern.
 - ausschließen 除外，排除
