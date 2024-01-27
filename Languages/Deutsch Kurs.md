@@ -57,6 +57,7 @@
 - feststellen=bemerken, festlegen=ausmachen
 - Es handelt sich dabei, um die Geburtsurkunden meiner Großeltern.
 - ausschließen 除外，排除
+------------------------------------
 5. 
 - im Uhrzeigersinn/gegen dem Uhrzeigersinn
 - die Besatzung 占领军
