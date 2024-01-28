@@ -24,14 +24,32 @@ In our 'Data Science & Artificial Intelligence' department we cover the entire s
 ## Tasks and Requirement
 
 **Tasks Know-How**:
-- Semantic-Web-Technology
-- The analysis of multimodal data
+### Semantic-Web-Technology
+HTTP, TCP/IP (protocols); SQL (database); XML, HTML (markup language); Propositional logic and first order logic
+- Elements:
+1. semantic - sense, meaning
+2. syntax - structure
+3. context - surrounding
+4. pragmatics - intended purpose
+5. experience - consider
+- Problem:
+1. information retrieval: one term -> many meaning
+2. information extraction: implicit knowledge like photo
+3. maintenance: consistency, correctness
+4. personalization: personal experience
+- vision:
+1. build machine interaction
+2. with explicitly annotated with semantic metadata
+3. encode meaning
+4. mapping entities
+5. global database
+6. technologies: dbpedia (semantic version for machine), RDF schema
+### The analysis of multimodal data
+### Software, DevOps, MLOps
+### Tensorflow, PyTorch
+### State-of-the-art machine learning frameworks and libraries
+### Promotion Programm in Fraunhofer
 - Python, C++, SQL
-- Software, DevOps, MLOps
-- Tensorflow, PyTorch
-- State-of-the-art machine learning frameworks and libraries
-- Promotion
-
 **Proposal**:
 
 See Use Case.
@@ -53,7 +71,8 @@ Analytics algorithms visit the decentral data centres and return (and travel on)
 distributed healthcare data analytics:
 - Azure Data Lakes - security, distributed - Hadoop?
 - ML can be used optimaler on FAIR data, I think that's why we build FAIR data.
-
+- Haddop: distributed storage and processing
+- 
 ## Use Case: Predictive Analytics in Healthcare
 ### Objective:
 To develop a machine learning model that predicts patient health risks (such as the likelihood of developing a certain condition) based on a wide range of healthcare data.
