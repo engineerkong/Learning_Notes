@@ -4,7 +4,7 @@
 - übermütig 傲慢的
 - eingebildet 自大的
 - aussetzen 丢弃，放逐
-- der Schnabel 嘴
+- der Schnabel 嘴 Bart
 - die Drossel 鸠
 - verspotten 嘲笑
 - erstbeste 最先碰到的一个
@@ -17,18 +17,18 @@
 - bücken 弯腰
 - der Diener 仆人
 - flechten 编织
-- auslachen 嘲笑
+- auslachen 嘲笑. Man darf andere Leute auslachen.
 - gebrauchen 利用
 - prächtig 壮丽的
 - herrlich 壮丽的
 - sich schämen 感到羞愧
 - der Wichtel 地精
 2.
-- auf die Probe stellen 将其检验
+- auf die Probe stellen 将其检验. Wir sollen zuerst unsere neue Modelle auf die Probe stellen.
 - der Strohhalm 吸管
 - versprechen 答应，应允
 - der Bote 信差，征兆
-- das Mitleid 同情
+- das Mitleid 同情. Ich habe Mitleid, wenn ich andere Leute leiden sehe.
 - die Schneeflocke 雪花
 - die Witwe 寡妇
 - der Brunnen 水井，喷泉
@@ -41,13 +41,13 @@
 - die Stube 房间
 - sich vor/zu etwas hüten 提防/避免 
 - (sich) verstellen (伪装) 阻断 
-- der Krämer 商贩 
+- der Krämer 商贩
 - die Kreide 粉笔
-- sich verweigern 拒绝
+- sich verweigern 拒绝. Wenn andere Laender sich verweigern, ...
 - ahnen 预感
-- streuen 散播
-- die Waschschüssel 洗手盆 
-- verschlingen 缠绕，吞掉
+- streuen 散播. Ich habe Sand verstreut, weil weil die Stufen vereist waren.
+- die Waschschüssel 洗手盆. Du kannst die Waschschüssel benutzen, wenn du dein Gesicht waschen möchtest.
+- verschlingen 缠绕，吞掉. Der Draht hat mich verschlungen.
 - sperrangelweit 敞开的
 - schnarchen 打鼾
 - zappeln 坐立不安
@@ -56,7 +56,8 @@
 - klatschnass 湿透的
 - die Fersen 脚跟
 - die Daune 绒毛
-- entsetzllich 非常的，可怕的
+- entsetzllich 非常的，可怕的. Dieses Film ist sehr entsetzlich.
+----------------------------------------------
 5.
 - der Raben 乌鸦 
 - verwandeln 转换
