@@ -16,3 +16,4 @@ Beide Aufgaben machen mir großen Spaß. Als Masterabsolvent mit Erfahrung im Ma
 
 United Internet: WEB.DE, intelligente Postfach, analysieren Use-Case, NLP.
 Adesso: Health Solutions Abrechnungssysteme, Container und CI-CD, Software-Engineering für halbes Jahr, MLflows
+TecRacer: vielfältige Projekte auf AWS, agieren, stakeholder, Cloud-Aufbau
