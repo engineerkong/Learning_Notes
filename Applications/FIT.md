@@ -50,6 +50,12 @@ HTTP, TCP/IP (protocols); SQL (database); XML, HTML (markup language); Propositi
 3. Intelligence Agent in the Semantic Web
 4. 3 Generations of Web pages: Static (HTTP) -> Interactive (Javascript) -> Virtual web Pages (AI)
 ### The analysis of multimodal data
+Visual data, language data, audio data. 
+The integration and interpretation of data within and across modalities as well as human interaction with multimodal data and the knowledge and insights derived from it.
+data fusion: early, feature, decision level. Also about metadata. Azure Cognitive Services allow for the effective fusion of multimodal data
+- store the multimodal data
+- use different models (NLP,CV) to get the insights or metadata of different data
+- use machine learning models to deal with the insights and return results
 ### Software, DevOps, MLOps
 ### Tensorflow, PyTorch
 ### State-of-the-art machine learning frameworks and libraries
