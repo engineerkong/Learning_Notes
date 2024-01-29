@@ -64,9 +64,12 @@ CI/CD:
 - When many contributors, keep the code runable after each commitment.
 MLOps in model lifecycle:
 - Monitoring and iteration: data processing, feature engineering, model parameter tailoring, model training, model validation.
-### Tensorflow, PyTorch
-### State-of-the-art machine learning frameworks and libraries
+### State-of-the-art machine learning frameworks and libraries: Tensorflow, PyTorch
+Used to deal with multidimensional arrays like image and build neural network model.
 ### Promotion Programm in Fraunhofer
+maybe dualmentorship with university professor?
+publication?
+
 - Python, C++, SQL
 **Proposal**:
 
