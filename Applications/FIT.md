@@ -57,6 +57,13 @@ data fusion: early, feature, decision level. Also about metadata. Azure Cognitiv
 - use different models (NLP,CV) to get the insights or metadata of different data
 - use machine learning models to deal with the insights and return results
 ### Software, DevOps, MLOps
+DevOps in software lifecycle:
+- development: coding, continuously integration, bulding, testing.
+- operation: releasing, computing infrastruction, monitoring, continously deployment, securty.
+CI/CD:
+- When many contributors, keep the code runable after each commitment.
+MLOps in model lifecycle:
+- Monitoring and iteration: data processing, feature engineering, model parameter tailoring, model training, model validation.
 ### Tensorflow, PyTorch
 ### State-of-the-art machine learning frameworks and libraries
 ### Promotion Programm in Fraunhofer
