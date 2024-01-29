@@ -34,3 +34,5 @@ AM-Fertigungsroute (Additive Manufacturing): von einzigartigen Bauteildesigns un
 - Sinter AM (烧结)
 - Directed Energy Deposition (焊接)
 - Polymer AM (塑料)
+
+**What they asked: 1. Vorstellung 2. Frage über Erfahrung im Bereich Additive Manifacturing 3. Geünschte Arbeitsumfeld und Beziehung mit dem Chef 4. Proposal der Aufgaben 5. Promotion**
