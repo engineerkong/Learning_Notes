@@ -44,6 +44,11 @@ HTTP, TCP/IP (protocols); SQL (database); XML, HTML (markup language); Propositi
 4. mapping entities
 5. global database
 6. technologies: dbpedia (semantic version for machine), RDF schema
+- Application:
+1. Linked Open Data Cloud (up-to-date)
+2. Search Engines: Document Retrieval, Fact Retrieval, Exploratory Search
+3. Intelligence Agent in the Semantic Web
+4. 3 Generations of Web pages: Static (HTTP) -> Interactive (Javascript) -> Virtual web Pages (AI)
 ### The analysis of multimodal data
 ### Software, DevOps, MLOps
 ### Tensorflow, PyTorch
