@@ -17,3 +17,5 @@ Beide Aufgaben machen mir großen Spaß. Als Masterabsolvent mit Erfahrung im Ma
 United Internet: WEB.DE, intelligente Postfach, analysieren Use-Case, NLP.
 Adesso: Health Solutions Abrechnungssysteme, Container und CI-CD, Software-Engineering für halbes Jahr, MLflows
 TecRacer: vielfältige Projekte auf AWS, agieren, stakeholder, Cloud-Aufbau
+DeepL: I am always a user of DeepL. familiar with ETL pipelines in Azure, data, SQL, distributed data infrastructure
+ETL: extra, transform, load. An ETL pipeline or data pipeline is the set of processes used to move data from various sources into a common data repository such as a data warehouse.
