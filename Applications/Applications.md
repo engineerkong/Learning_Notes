@@ -19,3 +19,4 @@ Adesso: Health Solutions Abrechnungssysteme, Container und CI-CD, Software-Engin
 TecRacer: vielfältige Projekte auf AWS, agieren, stakeholder, Cloud-Aufbau
 DeepL: I am always a user of DeepL. familiar with ETL pipelines in Azure, data, SQL, distributed data infrastructure
 ETL: extra, transform, load. An ETL pipeline or data pipeline is the set of processes used to move data from various sources into a common data repository such as a data warehouse.
+Add to Resume: ETL, Clean coding, Data analysis
