@@ -45,3 +45,8 @@
 - initiative = new action
 - Everyone, every, no one and anything -> singular form
 - All of, both of, neither of, none of -> plural form
+
+5.
+- I perfer +
+- I would perfer + (possibility)
+- I would rather + (comparision) 
