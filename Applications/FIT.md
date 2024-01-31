@@ -60,8 +60,10 @@ data fusion: early, feature, decision level. Also about metadata. Azure Cognitiv
 DevOps in software lifecycle:
 - development: coding, continuously integration, bulding, testing.
 - operation: releasing, computing infrastruction, monitoring, continously deployment, securty.
+
 CI/CD:
 - When many contributors, keep the code runable after each commitment.
+
 MLOps in model lifecycle:
 - Monitoring and iteration: data processing, feature engineering, model parameter tailoring, model training, model validation.
 ### State-of-the-art machine learning frameworks and libraries: Tensorflow, PyTorch
@@ -93,7 +95,6 @@ distributed healthcare data analytics:
 - Azure Data Lakes - security, distributed - Hadoop?
 - ML can be used optimaler on FAIR data, I think that's why we build FAIR data.
 - Haddop: distributed storage and processing
-- 
 ## Use Case: Predictive Analytics in Healthcare
 ### Objective:
 To develop a machine learning model that predicts patient health risks (such as the likelihood of developing a certain condition) based on a wide range of healthcare data.
