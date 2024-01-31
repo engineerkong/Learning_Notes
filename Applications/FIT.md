@@ -131,3 +131,35 @@ The implementation of this use case can lead to:
 It's crucial to address privacy, consent, and bias in the data. Anonymizing patient data to protect privacy and ensuring that the data used for training the ML models is representative of the diverse patient population are key considerations.
 
 This use case demonstrates how FAIR data principles can enhance the quality and utility of data in a machine learning context, particularly in a sensitive and impactful field like healthcare.
+
+## Thank you note:
+----------------------------------
+Dear Dr. Christoph Lange-Bever,
+
+Thank you once again for considering my application and for the delightful conversation today. It was such a pleasure to talk about the FIT Institute and share insights on your innovative projects. I particularly appreciated our happy conversation in German. It made our interview more relaxed.
+
+I look forward to the possibility of working together and contributing to the impactful work at the FIT Institute.
+
+Best regards,
+
+Lingxiao Kong
+------------------------------------
+Dear Prof. Oya Deniz Beyan,
+
+Thank you once again for considering my application and for the delightful conversation today. It was such a pleasure to learn more about the team and position. I am honored to be able to discuss the details of the PhD program with you.
+
+Thank you once again for considering my application and for the delightful conversation. I look forward to the possibility of working together and contributing to the impactful work at the FIT Institute.
+
+Best regards,
+
+Lingxiao Kong
+----------------------------------------
+Dear Dr. Zeyd Boukhers,
+
+Thank you once again for considering my application and for the delightful conversation today. It was such a pleasure to learn more about the team and position.The insights you provided about the potential project were particularly interesting to me. Additionally, the details you shared regarding the work environment at FIT have significantly increased my excitement to work in your team.
+
+I look forward to the possibility of working together and contributing to the impactful work at the FIT Institute.
+
+Best regards,
+
+Lingxiao Kong
