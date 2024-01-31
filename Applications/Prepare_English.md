@@ -2,7 +2,7 @@
 - Keywords: robot tasks, reinforcement learning algorithms and hyperparameters, sim2real transfer, landscape visualization.
 - Details:
 1. Define three robot tasks: reach, push, pick and place. Select two algorithms: SAC and PPO. Select two hyperparameters: learning rate and discount factor. 
-2. Find and tailor the simulation environment to match the real robot environment.
+2. Search and tailor the simulation environment to match the real robot environment.
 3. Conduct trial training with one combination of algorithms and hyperparameters in the simulation to identify the suitable reward function and determine the total time consumption.
 4. Train multiple combinations for each robot task in the simulation over a cloud server.
 5. Implement the trained models in the real robot environment and compare the performance between simulation and reality.
@@ -13,12 +13,12 @@
 ## Student Project
 - Keywords: data processing, deep learning models, computer vision, image and lidar point cloud.
 - Details:
-1. Annotate images with labels for cars and pedestrians as the testing dataset.
-2. Find and tailor deep learning models for traffic participants.
+1. Annotate and split images with labels for cars and pedestrians.
+2. Search and tailor deep learning models for traffic participants.
 3. Train the deep learning models with a training dataset from open-source image sets.
 4. Convert 2D to 3D using intrinsic and extrinsic matrices based on coordinate relations.
 5. Compare 3D results with the 3D point cloud and identify corresponding points on the lidar.
-6. Remove unusual points, such as outliers and floor points.
+6. Remove anomaly points, such as outliers and floor points.
 7. Compute the 3D position and orientation.
 - Consequences:
 1. This method can improve the accuracy of 3D information prediction and is better than direct prediction from deep learning models.
