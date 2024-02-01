@@ -50,3 +50,12 @@
 - I perfer +
 - I would perfer + (possibility)
 - I would rather + (comparision) 
+
+6.
+- charity = Stiftung
+- vulnerable = ungeschuetzt
+- celebrity
+- every other year = every two year
+- hoot = hupen
+- sub + have/has + perfect simple
+- sub + have/has + been + perfect continous
