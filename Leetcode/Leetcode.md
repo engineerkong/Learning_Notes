@@ -58,9 +58,11 @@ StackA -> StackB
 ### Queue 队列
 
 ```
-queue = deque()
-queue.append(1) # add the tail
-queue.popleft() # remove the head
+import queue
+q = queue.Queue()
+d = queue.deque()
+q.append(1) # add the tail
+q.popleft() # remove the head
 ```
 
 ### String 字符串
