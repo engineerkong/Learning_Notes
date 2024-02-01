@@ -59,3 +59,6 @@
 - hoot = hupen
 - sub + have/has + perfect simple
 - sub + have/has + been + perfect continous
+- keep the mind
+- in accordance with = nach/gemäß
+- circumstance = Umstand
