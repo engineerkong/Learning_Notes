@@ -167,6 +167,11 @@ edges = [[1, 2, 3, 4],
 ```
 
 ```
+heappush(heap,num)
+heappop(heap) # 从小到大出堆
+```
+
+```
 heap = []
 # 元素入堆
 heappush(heap, 1)
