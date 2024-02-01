@@ -163,3 +163,6 @@ I look forward to the possibility of working together and contributing to the im
 Best regards,
 
 Lingxiao Kong
+
+## Asked question
+Do you have a specifical topic for your phd thesis?
