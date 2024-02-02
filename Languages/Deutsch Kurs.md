@@ -107,3 +107,6 @@
 - Migräne = ein Art von Kopfschmerzen
 - dumpf = hollow
 - lähmend ´betäubt
+9.
+- zusammenschließen = merge
+- naturgestreu = realistisch
