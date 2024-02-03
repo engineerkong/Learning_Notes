@@ -60,7 +60,9 @@ StackA -> StackB
 ```
 import queue
 q = queue.Queue()
-d = queue.deque()
+d = queue.deque() # 双端队列
+d.append() # 插入尾部
+d.appendleft() # 插入头部
 q.append(1) # add the tail
 q.popleft() # remove the head
 ```
