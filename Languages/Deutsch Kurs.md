@@ -111,3 +111,4 @@
 - zusammenschließen = merge
 - naturgestreu = realistisch
 - Ich bin mir klar
+------------------------------------
