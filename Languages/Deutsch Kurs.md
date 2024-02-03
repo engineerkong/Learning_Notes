@@ -89,9 +89,9 @@
 - Das musst du gemachen haben (Ratschlag)
 - Das hättest du machen sollen (Vorwurf)
 7.  
-- bündig
-- langatmigkeit
-- beheben
+- bündig = kurz und bestimmt, überzeugend, schlüssig
+- langatmigkeit 赘言
+- beheben: Problem beheben
 - Rechtschreibfehler
 - Grammatikfehler
 - Idomatische Fehler
@@ -106,7 +106,8 @@
 - Rezepte ausstellen
 - Migräne = ein Art von Kopfschmerzen
 - dumpf = hollow
-- lähmend ´betäubt
+- lähmend = betäubt
 9.
 - zusammenschließen = merge
 - naturgestreu = realistisch
+- Ich bin mir klar
