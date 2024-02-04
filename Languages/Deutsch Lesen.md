@@ -59,20 +59,21 @@
 - entsetzllich 非常的，可怕的. Dieses Film ist sehr entsetzlich.
 ----------------------------------------------
 5.
-- der Raben 乌鸦 
-- verwandeln 转换
-- glingen + D 成功
-- der Fluch 灾祸，诅咒
-- taufen 洗礼
-- schöpfen 汲取
-- der Krug 壶
-- das Geflatter 扑腾 
-- trösten 安慰
-- plagen 折磨
-- das Andenken 纪念，纪念品
-- aufschließen 排除
-- der Zwerg 矮人
-- kullern 滚动
+- der Raben 乌鸦: Da fliegt ein Raben auf dem Himmel.
+- verwechseln: Ich habe immer Lara mit Sansa verwechselt.
+- verwandeln 转换: Ich habe mich von Autofahrer zu Musiker verwandelt.
+- glingen + D 成功:  Es ist mir geglungen, ein Job zu bekommen.
+- der Fluch 灾祸，诅咒: Es ist ein Fluch, sag das aber nicht.
+- taufen 洗礼: Mein Sohn wird heute von Gottvater getauft.
+- schöpfen 汲取: Wir sollen das Wasser vom Fluss schöpfen, um das Schlüssel zu finden.
+- der Krug 壶: Haben Sie meinen Wasserkrug gesehen?
+- das Geflatter 扑腾: Ich habe damals Geflatter hinter der Tür gehört.
+- trösten 安慰: Lass mich dich trösten.
+- plagen 折磨: Ich habe diese Jähre viel von ihm geplagt geworden.
+- das Andenken 纪念，纪念品: Ich brauche diese Spiegel als ein Andenken für meiner Mutter.
+- aufschließen 排除: Der kann jetzt von dem Verdächtnislist auggeschlossen werden.
+- der Zwerg 矮人: Der ist aber klein wie einen Zwerg.
+- kullern 滚动: Vorsicht! Das Ball ist auf die Straße gekullert (gerollt).
 6.
 - denkbar 理想的
 - großzügig 大度的
