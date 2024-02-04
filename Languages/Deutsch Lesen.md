@@ -75,23 +75,23 @@
 - der Zwerg 矮人: Der ist aber klein wie einen Zwerg.
 - kullern 滚动: Vorsicht! Das Ball ist auf die Straße gekullert (gerollt).
 6.
-- denkbar 理想的
-- großzügig 大度的
-- legendär 传奇的
-- die Ohrfeige 巴掌
-- bedenken 思考
-- das Markenzeichen 特点，品牌
-- die Büste 半身塑像
-- erobern 征服
-- der Scherz 玩笑
-- nicht in Frage kommen 不合适
-- umstellen 调整
-- gescheit 聪明的
-- sich vor Verantwortung drücken 逃避
-- die Anschuldigung 指控
-- angeblich 表面上的，据称
-- die Bestechung 贿赂
-- spielerisch ernst
+- denkbar 理想的: Es ist eine denkbare Lösung des Problems.
+- großzügig 大度的: Unser Chef ist sehr größzügig und hat uns viel Gehalt geboten.
+- legendär 传奇的: Es ist ein legendäre Fußballspieler.
+- die Ohrfeige 巴掌: Ich habe an Yue eine Ohrfeige gemacht. Arme Yue.
+- bedenken 思考: Den genauen Plan muss ich noch bedenken
+- das Markenzeichen 特点，品牌: Hat deine Firma jegendwelches Markenzeichen?
+- die Büste 半身塑像: Sie können eine Büste sehen, die eine alte Philosophie war.
+- erobern 征服: Diesen Land müssen wir erobern.
+- der Scherz 玩笑: Mach keinen Scherz!
+- nicht in Frage kommen 不合适: Es kommt mir nicht in Frage.
+- umstellen 调整: Wir sollen die Parameter umstellen.
+- gescheit 聪明的: Ich glaube an dich, du bist gescheit.
+- sich vor Verantwortung drücken 逃避: Du kannst dich aber nicht vor Verantwortung drücken.
+- die Anschuldigung 指控: Ich habe eine Anschuldigung von ihm bekommen.
+- angeblich 表面上的，据称: Angeblich ist das doch deinen Schuld.
+- die Bestechung 贿赂: Mach die Bestechung aber nicht, es ist illegal.
+- spielerisch ernst: Man soll bei seinem Leben spielerisch ernst sein.
 7.
 - hauen raus 开发出
 - abschneiden 切下，出发
