@@ -93,20 +93,20 @@
 - die Bestechung 贿赂: Mach die Bestechung aber nicht, es ist illegal.
 - spielerisch ernst: Man soll bei seinem Leben spielerisch ernst sein.
 7.
-- hauen raus 开发出
-- abschneiden 切下，出发
-- der Puritaner 清教徒
-- ausleben 任意发展
-- die Abspaltung 分裂
-- die Aufklärung 启蒙运动
-- abspulen 背诵
-- der Wechselkurs 汇率 
+- hauen raus 开发出: Das müssen wir raushauen.
+- abschneiden 切下，出发: Die Zwecke können wir abschneiden. Die sind zu lang.
+- der Puritaner 清教徒: Ich bin kein Puritaner und sogar nicht religiös.
+- ausleben 任意发展: Meine Mutter ermutigte mich, meinen Traum auszuleben.
+- die Abspaltung 分裂: Die Zelle haben sich sehr schnell abgespaltet.
+- die Aufklärung 启蒙运动: Wann war die Aufklärung in Europa?
+- abspulen 背诵: Ich kann das Essay nicht abspulen.
+- der Wechselkurs 汇率: Wie ist der Wechselkurs von Euro zu Yuan?
 8.
-- herumlaufen 漫步
-- drastisch 赤裸裸的
-- kippen 翻转，倾倒
-- die Integration 融合
-- der Anteil 部分
-- tatverdächtig 有作案嫌疑的
-- die Abschiebung 驱逐
+- herumlaufen 漫步: Wir möchten nur in der Stadt herumlaufen.
+- drastisch 赤裸裸的: Das ist aber eine drastische Drohung.
+- kippen 翻转，倾倒: Vorsicht. Die Flasche kann sich kippen.
+- die Integration 融合: Wann findet dieser Integrationskurs statt?
+- der Anteil 部分: Darf ich auch einen Anteil von dem haben?
+- tatverdächtig 有作案嫌疑的: Ich muss sagen, dass du stark tatverdächtig bist.
+- die Abschiebung 驱逐: Leider können wir nur die Abschiebung an dir ausführen.
 
