@@ -62,3 +62,33 @@
 - keep the mind
 - in accordance with = nach/gemäß
 - circumstance = Umstand
+
+7.
+- odd = irrelevant
+- persuade = ueberreden
+- mundane = weltlich, alltaeglich
+- trivial = unbedeutend
+- undertake = vornehmen
+- appeal = call, attract
+- frustration = Enttaeuschung
+- totter = 蹒跚
+- nine out of ten = 9/10
+- tune = melodie
+- tap in = 点击进入 = sich erschliessen
+- recur = sich wiederkehren
+- theme -thing
+- on occasions = 不定期的 = gelegentlich
+- embark = 登船 = sich einschiffen
+- sleeve = Aermel
+- cold turkey = To start something suddenly.
+- prior to = pe rei e
+- accustomed = Familiar with something.
+- haunt = 闹鬼 = spuken
+- adversity = Not
+- embrace = umarmen
+- acquaintance = A person that you know but who is not a close friend.
+- zone -zon
+- veteran = A person who has a lot of experience in a particular area or activity.
+- subsequent = nachfolgend
+- hill = hio
+- barren = Not good enough for plants to grow on it.
