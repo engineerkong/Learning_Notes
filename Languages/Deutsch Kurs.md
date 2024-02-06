@@ -112,3 +112,17 @@
 - naturgestreu = realistisch
 - Ich bin mir klar
 ------------------------------------
+10.
+- Auskunft = Information
+- Information **liefern**
+- die Erhebung = survey
+- stammen aus (Ursprung)/ von (Quelle)
+- inwiefern kennt man die Umwelt
+- ist gestiegen/angewachsen
+- rückläufige Entwicklung
+- Es sind rund 40% **unter** den Frauen.
+- Gemeinsamkeit/Unterschied
+- hingegen/wohingegen/dagegen/während
+- Fazit **ziehen**
+- einen Vergleich **anstellen**
+
