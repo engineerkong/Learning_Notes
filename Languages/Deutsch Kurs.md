@@ -125,4 +125,15 @@
 - hingegen/wohingegen/dagegen/während
 - Fazit **ziehen**
 - einen Vergleich **anstellen**
-
+11.
+- Belletristik = ficiton, Krimi, Sachtexte, Satire = 讽刺
+- Fragen aufwerfen/stellen
+- Nachricht von Kunstler erhalten
+- der Rausch = 陶醉
+- verbildlichen = ein Bild in Gehirn zu erzeugen
+- wundern sich über
+- ästhetisch = 审美的
+- gemeinhin = normalerweise
+- Vollkommen = Perfect
+- heraustreiben = 驱除
+- vom Patient**en**
