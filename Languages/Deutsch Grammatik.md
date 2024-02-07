@@ -1,8 +1,10 @@
 ## Verben
-### Konjugation
-### sein: + 2*Nominativ; Verbindungen: beisammen sein
-### haben: + (N + A)
-### regelmäßige/schwache Verben
+### Konjugation:
+### sein: 
+- + 2*Nominativ; Verbindungen: beisammen sein
+### haben:
+- + (N + A)
+### regelmäßige/schwache Verben:
 ### unregelmäßige/starke Verben: 
 - lesen, brechen, messen, quellen, stechen, laden, (er) weiß.
 ### Modalverben: 
@@ -13,8 +15,11 @@
 - echte: Ich freue mich auf die Semesterferien.
 - unechte: Du wäschst dich./Du wäschst dir deine Hände.
 - reziproke: Peter liebt Petra und Petra liebt Peter. -> Peter und Petra lieben sich.
-### Tempus: 
-- Perfekt; Präteritum; Plusquamperfekt; Präsens(auch andauerende und zukünftig); Futur I/Futur II (werden+verpasst+haben)
+### Tempus:
+- Präsens(auch andauerende und zukünftig); Perfekt; Präteritum; Plusquamperfekt; Futur I; Futur II (werden+verpasst+haben)
+- Präsens: zukünfig mit einem Zeitwort verbunden: sofort,gleich, in 5 Minuten, in einer Stunde, bald, nachher, heute Abend, morgen, in drei Jahren
+- Perfekt: **mit sein verbunden**: ankommen, aufwachsen, bleiben, gelingen (Mir ist endlich mein Experiment gelungen), geschehen, werden. **Partizip II als Adjektiv**: Das Geschäft bleibt geschlossen. Das schwer verletzte Tier.
+
 ### Passiv(Die Aktion ist wichtig): 
 - direkt: + von + D.
 - indirekt: + durch + A.
