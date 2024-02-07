@@ -14,6 +14,7 @@ array.append(1)
 ```
 n1 = ListNode(4)
 n1.next = n2
+self.pre.right, cur.left = cur, self.pre
 ```
 
 ```
