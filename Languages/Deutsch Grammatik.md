@@ -16,7 +16,7 @@
 - unechte: Du wäschst dich./Du wäschst dir deine Hände.
 - reziproke: Peter liebt Petra und Petra liebt Peter. -> Peter und Petra lieben sich.
 ### Tempus:
-- Präsens(auch andauerende und zukünftig); Perfekt; Präteritum; Plusquamperfekt; Futur I; Futur II (werden+verpasst+haben)
+- Präsens(auch andauerende und zukünftig); Perfekt; Präteritum; Plusquamperfekt; Futur I (werden+verpassen); Futur II (werden+verpasst+haben)
 - Präsens: zukünfig mit einem Zeitwort verbunden: sofort,gleich, in 5 Minuten, in einer Stunde, bald, nachher, heute Abend, morgen, in drei Jahren
 - Perfekt: **mit sein verbunden**: ankommen, aufwachsen, bleiben, gelingen (Mir ist endlich mein Experiment gelungen), geschehen, werden. **Partizip II als Adjektiv**: Das Geschäft bleibt geschlossen. Das schwer verletzte Tier.
 
@@ -38,3 +38,7 @@
   - Benutz **-bar/-lich** als Ersatz von **können**: Die Aufgabe lässt sich nicht lösen. -> Die Aufgabe ist nicht lösbar.
   - Benutz **sein + zu + Infinitiv** als Ersatz von **können** oder **müssen**: Sie müssen die Rechnung sofort bezahlen. -> Die Rechnung ist sofort zu bezahlen.
   - Benutz **bekommen-Gruppe + Partizip II**: Dem Kind werden 100 Euro geschenkt. -> Das Kind kriegt 100 Euro geschenkt.
+
+### Konjunktiv I:
+- indirekte Rede (nur im formellen Bereich): Der Präsident sagete, er werde die Steuern senken.
+- müss + e
