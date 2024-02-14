@@ -137,3 +137,13 @@
 - Vollkommen = Perfect
 - heraustreiben = 驱除
 - vom Patient**en**
+12.
+- flache Hierachie
+- erwiesenermaßen = es ist bewiesen (prove)
+- konservativ = 保守
+- starr ~ flexibel
+- überlassen = leave
+- Umschwung von bezahlter Zeit zu bezahlter Arbeit
+- in Einklang(wohl balancierten Ton haben) bringen/ unter einen Hut bringen
+- Kosename = Nickname
+- Seidenstadt = 丝绸城
