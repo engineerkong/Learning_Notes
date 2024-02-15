@@ -42,3 +42,7 @@
 ### Konjunktiv I:
 - indirekte Rede (nur im formellen Bereich): Der Präsident sagete, er werde die Steuern senken.
 - müss + e
+
+### Konjuktiv II:
+- Konjunktiv II: Traumwelt, nicht real
+- würden + Infinitiv/Präteritumform + Umlaut (wären, hätten, könnten)
