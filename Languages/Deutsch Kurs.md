@@ -147,3 +147,14 @@
 - in Einklang(wohl balancierten Ton haben) bringen/ unter einen Hut bringen
 - Kosename = Nickname
 - Seidenstadt = 丝绸城
+13.
+- Immuanel Kant (Philosophen): die Aufklärung 启蒙运动
+- die Vernunft: geistige Fähigkeit des Menschen, sich ein Urteil zu bilden. = Denkfähigkeit
+- die Naturgabe: Talent vom Geburt
+- der Vormünder: jemand für dich bestimmt, führt zu Unmündigkeit
+- selbst verschuldet = 自我造成的
+- tragisch = tragic = 悲惨的
+- selektiv = 可选择的
+- verdrießlich = ärgerlich
+- vor der Hand = von sich selbst
+- selbstbewusst (adj), das Selbstbewusstsein
