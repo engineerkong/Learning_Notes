@@ -44,5 +44,10 @@
 - müss + e
 
 ### Konjuktiv II:
-- Konjunktiv II: Traumwelt, nicht real
+- Konjunktiv II: Traumwelt, nicht real，
 - würden + Infinitiv/Präteritumform + Umlaut (wären, hätten, könnten)
+1. Höffentlichkeit
+2. Ratschlägen: Wenn ich du wäre, würde ich ... / Solltest du ...
+3. Wunschsätze: Wäre das Wetter doch nur wärmer!
+4. Irreale Bedingungssätze: Wenn Hans viel Geld hätte, würde Beate ihn heiraten.
+5. Irreale Vergleichssätze: Er tut so, als ob er mich nicht sehen würde. / Du tust so, als würdest du mich nicht verstehen. / Der Redner spricht so laut, als wenn ihn niemand hören würde.
