@@ -51,3 +51,15 @@
 3. Wunschsätze: Wäre das Wetter doch nur wärmer!
 4. Irreale Bedingungssätze: Wenn Hans viel Geld hätte, würde Beate ihn heiraten.
 5. Irreale Vergleichssätze: Er tut so, als ob er mich nicht sehen würde. / Du tust so, als würdest du mich nicht verstehen. / Der Redner spricht so laut, als wenn ihn niemand hören würde.
+
+## Verbergänzung:
+- Nominativ: Er / Wer nicht hören will, muss fühlen.
+  - Scheinsubjekt (Unpersönliche Verben): Es ist kalt.
+  - 2 Nominativ: bleiben, heißen, sein, werden.
+- Akkusativ: Wen fragt das Kind? / Was kaufst du?
+  - Akkusativ-deklination
+  - 2 Akkusativ: Es kostet dich nur deine Zeit. (abfragen, abhören, kosten, lehren, nennen)
+- Dativ: Er hilft ihr. 
+  - Dativ-deklination
+  - absagen, ähneln, antworten, begegnen, beistehen, beitreten, danken, dienen, drohnen, einfallen, entgegenkommen, fehlen, folgen, gefallen, gehorchen, gehören, gelingen, genügen, glauben, gratulieren, gut tun, helfen, missfallen, sich nähern, nachlaufen, nützen, passen, passieren, platzen, raten, sich schaden, schmecken, vertrauen, verzeihen, weh tun, widersprechen, zuhören, zustimmen
+- Dativ und Akkusativ: 
