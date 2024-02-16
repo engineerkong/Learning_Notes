@@ -158,3 +158,13 @@
 - verdrießlich = ärgerlich
 - vor der Hand = von sich selbst
 - selbstbewusst (adj), das Selbstbewusstsein
+14.
+- die Anglizismen = EN Wörte -> DE Wörte
+- das Oxymoron = Widerspruch
+- verschenken = give away, gift, donate
+- aufteilen: den Betrag aufteilen
+- ein guter Kauf sein
+- etwas in Kauf nehmen = accept : die Folgen in Kauf nehmen = hazard the consequences
+- etwas zum Kauf anbieten = zum Verkauf stehen
+- Vorreiter = pioneer
+- Monetarisierung = 货币化
