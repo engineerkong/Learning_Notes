@@ -168,3 +168,14 @@
 - etwas zum Kauf anbieten = zum Verkauf stehen
 - Vorreiter = pioneer
 - Monetarisierung = 货币化
+15.
+- die Regierung 政府
+- die Verfassung: palarment
+- die Demokratie 民主制 Italien
+- die Monarchie 君主制 UK
+- die Autokratie 民主专政 Russland
+- der Diktatur 专政 Nordkorea
+- der Republik: immer Demokratie und hat niemals einen Koenig. Deutschland
+- die Direkte Demokratie: Schweiz
+- progressiv - liberal - konservativ
+- die Priosierung 优先级
