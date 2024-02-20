@@ -179,3 +179,12 @@
 - die Direkte Demokratie: Schweiz
 - progressiv - liberal - konservativ
 - die Priosierung 优先级
+16.
+- brenne: Ich brenne für den Tierschutz.
+- Aufmerksamkeit lenken/ziehen
+- die Gesellschaft zuerst aufwühlen (煽动民众)
+- die eigene Wirtschaft ankurbeln (boost)
+17.
+- schablonenhaft = stereotyping
+- unterstellen = assume
+- abschreiben = write off, copy, depreciate
