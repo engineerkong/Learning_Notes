@@ -188,3 +188,17 @@
 - schablonenhaft = stereotyping
 - unterstellen = assume
 - abschreiben = write off, copy, depreciate
+18.
+- das Urheberrecht = copy right
+- erstehen = purchase
+- verstreichen = ablaufen
+- unbefugt = nicht erlaubt
+- gebilligt = approved
+- verfallen = expire
+- der Schöpfer = maker
+- stigmatisieren = negativ an andere diskutieren
+- schmeichelei = positiv an andere diskutieren 奉承
+- imitieren = 模仿
+- drakonisch = streng
+- gang und gäbe sein = übrig = common
+- die Zeitspanne = die Dauer = period
