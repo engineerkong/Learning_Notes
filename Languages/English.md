@@ -92,3 +92,7 @@
 - subsequent = nachfolgend
 - hill = hio
 - barren = Not good enough for plants to grow on it.
+
+## IELTS:
+- for the time period: continuity or consistency throughout a period
+- over the time period: a process or change occurring at some point(s) within that timeframe
