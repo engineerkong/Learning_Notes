@@ -96,3 +96,19 @@
 ## IELTS:
 - for the time period: continuity or consistency throughout a period
 - over the time period: a process or change occurring at some point(s) within that timeframe
+- people won't bother to read further. 不会继续读
+
+## Vocabulary:
+- fundraising
+- merchandise 商品
+- harness 使用
+- antenna
+- work out 找出
+- sophisticated = complicated
+- crude 简单粗暴
+- subtle 微妙
+- mimick = imitation
+- tongue
+- stimulus = attract
+- ritual 仪式
+- pierced
