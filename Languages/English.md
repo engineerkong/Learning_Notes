@@ -112,3 +112,9 @@
 - stimulus = attract
 - ritual 仪式
 - pierced
+- front wheel and rear wheel
+- drift
+- hesitate 停顿
+- rhythm
+- get through though times
+- relative
