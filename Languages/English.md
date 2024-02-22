@@ -118,3 +118,31 @@
 - rhythm
 - get through though times
 - relative
+- syllable 音节
+- e.t.c = et cetera
+- e.g. = exempli gratia
+- lexical 词汇的
+- cohesive 相关的
+- catch up with each other = meet
+- count down 倒计时
+- unforgettable
+- spectacular views
+- roast
+- pride
+- anniversary
+- forest
+- glance at 瞥一眼
+- desperately 拼命地
+- first and foremost
+- as a result
+- after a while
+## Sayings for speaking
+- well, let me start by saying.
+- overall
+- hear/smell/touch/taste/see
+## Writing
+- four out of five
+- four in five
+- just over/under (a little more or less than)
+- wel over/under (much more or less than)
+- with regard to/as regards/regarding/as for/as far as.. is concerned
