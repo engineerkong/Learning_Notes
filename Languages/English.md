@@ -136,6 +136,12 @@
 - first and foremost
 - as a result
 - after a while
+- epidemic 流行的
+- monologue 独白
+- italian
+- log fire 壁炉
+- rule out 排除
+- ice of 130000 of years old
 ## Sayings for speaking
 - well, let me start by saying.
 - overall
