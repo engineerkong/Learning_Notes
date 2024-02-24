@@ -1,5 +1,11 @@
 ## Listening
-
+- Tips:
+  - use the breaks to read ahead
+  - underline keywords
+  - may hear synonyms
+  - be carefully of spelling
+  - dont get stuck on a difficult question
+  - concentrate!
 ## Reading
 
 ## Speaking
@@ -9,3 +15,18 @@
 ## Grammar
 
 ## Vocabulary
+- delegate 委派
+- carving 雕刻
+- negotiate 协商
+- disposal 处置
+- parcel 包裹
+
+## spelling
+- centre/center/central
+- camel
+- desert
+- kangaroo
+- double v == vv
+- inconvenient
+- Melbourne
+- Post Office Box 651
