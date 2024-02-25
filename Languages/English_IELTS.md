@@ -6,6 +6,7 @@
   - be carefully of spelling
   - dont get stuck on a difficult question
   - concentrate!
+- 问题本身需要阅读仔细
 ## Reading
 
 ## Speaking
@@ -20,7 +21,9 @@
 - negotiate 协商
 - disposal 处置
 - parcel 包裹
-
+- recreational/practical/spiritual/commercial
+- companionship 友谊
+- 
 ## spelling
 - centre/center/central
 - camel
