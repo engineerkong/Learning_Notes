@@ -23,7 +23,11 @@
 - parcel 包裹
 - recreational/practical/spiritual/commercial
 - companionship 友谊
-- 
+- proverty 贫困
+- biography 传 autobiography 自传
+- petrol station 加油站
+- inconclusive 不确定的
+- confidential 机密的
 ## spelling
 - centre/center/central
 - camel
@@ -33,3 +37,6 @@
 - inconvenient
 - Melbourne
 - Post Office Box 651
+- Scotland
+- organizational
+- confidential
