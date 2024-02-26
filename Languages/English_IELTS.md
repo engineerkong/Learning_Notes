@@ -30,12 +30,18 @@
 - petrol station 加油站
 - inconclusive 不确定的
 - confidential 机密的
-- secretary秘书/litter垃圾/banned禁止/moth蛾/boot靴，船
-- exterior外部/cliff悬崖/carve雕刻
-- breed饲养，品种/livestock牲畜/contaminate污染
-- labyrinth迷宫/meditation冥想
-- conventional传统的/mood气氛/demanding严格
-- atlas大地图
+- secretary 秘书/litter 垃圾/banned 禁止/moth 蛾/boot 靴，船
+- exterior 外部/cliff 悬崖/carve 雕刻
+- breed 饲养，品种/livestock 牲畜/contaminate 污染
+- labyrinth 迷宫/meditation 冥想
+- conventional 传统的/mood 气氛/demanding 严格
+- atlas 大地图/feather 羽毛
+- by means of 借助于
+- plumber 水管工/electrician 电工
+- turnover 周转
+- gratitude 感激/disbelief 怀疑
+- excessive 过度的
+- sweat 流汗
 ## spelling and pronunication
 - centre/center/central
 - camel
@@ -51,3 +57,8 @@
 - anxiety
 - tuna
 - quiz
+- liter
+- cloudy
+- balcony
+
+- diameter
