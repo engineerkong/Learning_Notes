@@ -35,6 +35,7 @@
 - breed饲养，品种/livestock牲畜/contaminate污染
 - labyrinth迷宫/meditation冥想
 - conventional传统的/mood气氛/demanding严格
+- atlas大地图
 ## spelling and pronunication
 - centre/center/central
 - camel
