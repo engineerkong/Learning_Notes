@@ -28,7 +28,11 @@
 - petrol station 加油站
 - inconclusive 不确定的
 - confidential 机密的
-## spelling
+- secretary秘书/litter垃圾/banned禁止/moth蛾/boot靴，船
+- exterior外部/cliff悬崖/carve雕刻
+- breed饲养/livestock牲畜/contaminate污染
+- labyrinth迷宫/meditation冥想
+## spelling and pronunication
 - centre/center/central
 - camel
 - desert
@@ -40,3 +44,5 @@
 - Scotland
 - organizational
 - confidential
+- anxiety
+- tuna
