@@ -7,6 +7,8 @@
   - dont get stuck on a difficult question
   - concentrate!
 - 问题本身需要阅读仔细
+- 尽量使用原词
+- 查看前后词确定词性
 ## Reading
 
 ## Speaking
@@ -30,8 +32,9 @@
 - confidential 机密的
 - secretary秘书/litter垃圾/banned禁止/moth蛾/boot靴，船
 - exterior外部/cliff悬崖/carve雕刻
-- breed饲养/livestock牲畜/contaminate污染
+- breed饲养，品种/livestock牲畜/contaminate污染
 - labyrinth迷宫/meditation冥想
+- conventional传统的/mood气氛/demanding严格
 ## spelling and pronunication
 - centre/center/central
 - camel
@@ -46,3 +49,4 @@
 - confidential
 - anxiety
 - tuna
+- quiz
