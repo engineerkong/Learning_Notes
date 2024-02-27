@@ -9,8 +9,22 @@
 - 问题本身需要阅读仔细
 - 尽量使用原词
 - 查看前后词确定词性
-## Reading
 
+## Reading
+- Sequences:
+  - read title
+  - go to the questions and underline keywords
+  - search in passage and underline
+  - read that part carefully with normal speed
+  - try to get the answer
+- Find Headings:
+  - do that last
+  - underline keywords
+  - read easiest paragraph firstly and compare with all headings
+    there are serveral confusing options
+- contains information:
+  - do that last
+  - paragraph contains more answer of no answer
 ## Speaking
 
 ## Writing
