@@ -17,16 +17,12 @@
   - search in passage and underline
   - read that part carefully with normal speed
   - try to get the answer
-- Find Headings:
+- Macthing (headings/information/names/endings):
   - do that last
   - underline keywords
-  - read easiest paragraph firstly and compare with all headings
-    there are serveral confusing options
-- contains information/matching names:
-  - do that last
+  - read easiest paragraph firstly and compare with all statements
   - paragraph contains more answer of no answer
-  - find the easiest paragraph or names
-  - match all the information or statements
+  - there are serveral confusing options
 
 ## Speaking
 
