@@ -22,9 +22,11 @@
   - underline keywords
   - read easiest paragraph firstly and compare with all headings
     there are serveral confusing options
-- contains information:
+- contains information/matching names:
   - do that last
   - paragraph contains more answer of no answer
+  - find the easiest paragraph or names
+  - match all the information or statements
 
 ## Speaking
 
