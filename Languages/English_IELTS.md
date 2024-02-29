@@ -55,7 +55,8 @@
 - gratitude 感激/disbelief 怀疑
 - excessive 过度的
 - sweat 流汗
-- 
+- different ... like 不同于
+- ecstatic 欣喜若狂
 ## Spelling and pronunication
 - centre/center/central
 - camel
@@ -75,5 +76,3 @@
 - cloudy
 - balcony
 - diameter
-
-## Keyword table
