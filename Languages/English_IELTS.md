@@ -23,7 +23,8 @@
   - read easiest paragraph firstly and compare with all statements
   - paragraph contains more answer of no answer
   - there are serveral confusing options
-
+- T/F/NG中如非直接说明不是，则为NG
+- information题往往不是段落大意，而是其中包含的小部分
 ## Speaking
 
 ## Writing
@@ -57,6 +58,20 @@
 - sweat 流汗
 - different ... like 不同于
 - ecstatic 欣喜若狂
+- not least because of 尤其是因为
+- on time 准时/in time 及时
+- soar 升至
+- spacious 宽敞的
+- versatile 多样的
+- conspiracy 阴谋
+- alliance 联盟
+- conviction 定罪
+- the inclusion of my account 我的角色定位
+- get an account of 得知
+- overlook 俯瞰
+- omit 忽略
+- provenance 出处
+- 
 ## Spelling and pronunication
 - centre/center/central
 - camel
