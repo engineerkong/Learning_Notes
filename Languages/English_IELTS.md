@@ -25,6 +25,7 @@
   - there are serveral confusing options
 - T/F/NG中如非直接说明不是，则为NG
 - information题往往不是段落大意，而是其中包含的小部分
+- 通读问句进行检查
 ## Speaking
 
 ## Writing
@@ -71,7 +72,12 @@
 - overlook 俯瞰
 - omit 忽略
 - provenance 出处
-- 
+- habitat 栖息地
+- excavation 挖掘
+- amenity 便利设施
+- enclave 飞地
+- harbour 港口
+- skyscraper 摩天大楼
 ## Spelling and pronunication
 - centre/center/central
 - camel
