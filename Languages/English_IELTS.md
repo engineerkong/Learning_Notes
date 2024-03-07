@@ -25,7 +25,7 @@
   - there are serveral confusing options
 - T/F/NG中如非直接说明不是，则为NG
 - information题往往不是段落大意，而是其中包含的小部分
-- 通读问句进行检查
+- 通读问句进行检查，注意时态
 ## Speaking
 
 ## Writing
@@ -78,6 +78,13 @@
 - enclave 飞地
 - harbour 港口
 - skyscraper 摩天大楼
+- rescue 拯救
+- cultivation 栽培
+- mutually 互相地
+- indigenous 本地的
+- fine 罚款
+- not a far reach 并非遥不可及
+- priority 后续事项
 ## Spelling and pronunication
 - centre/center/central
 - camel
