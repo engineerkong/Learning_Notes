@@ -27,7 +27,29 @@
 - information题往往不是段落大意，而是其中包含的小部分
 - 通读问句进行检查，注意时态
 ## Speaking
-
+- Tips:
+  - be ready
+  - know what to expect
+  - know what the examiner expects from you
+  - natural language not difficult language
+  - answer as quickly as you can
+- Don't worry about:
+  - body language
+  - eye contact
+  - the quality of your ideas
+  - whether the examiner agrees with you
+  - presentation skills
+  - the examiner's behaviour
+- Part 1: 4-5 min, 10-11 questions, 3 topic areas
+  - fluency, don't stop and think
+  - **technique**: answer and reason, smile at the examiner
+  - **topics**: sport, colours, 
+  - intoduction question, one topic, one topic
+- Part 2: 1 min prepare and 2 min speak, task card, describe
+  - Topics: Person, Place, Object, Event, Activity, Favourites
+  - Techniques
+  - Vocabulary
+  - Example question
 ## Writing
 
 ## Grammar
