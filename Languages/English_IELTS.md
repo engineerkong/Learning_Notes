@@ -40,16 +40,18 @@
   - whether the examiner agrees with you
   - presentation skills
   - the examiner's behaviour
-- Part 1: 4-5 min, 10-11 questions, 3 topic areas
+- Part 1 **fluency**: 4-5 min, 10-11 questions, 3 topic areas
   - fluency, don't stop and think
-  - **technique**: answer and reason, smile at the examiner
-  - **topics**: sport, colours, 
+  - technique: answer and reason, smile at the examiner
+  - topics: sport, colours, 
   - intoduction question, one topic, one topic
-- Part 2: 1 min prepare and 2 min speak, task card, describe
+- Part 2 **vocabulary**: 1 min prepare and 2 min speak, task card, describe
   - Topics: Person, Place, Object, Event, Activity, Favourites
-  - Techniques
+  - Techniques: Prepare ideas and vocabulary. Speak naturally and explain in detail.
   - Vocabulary
   - Example question
+- Part 3 **structure**: a long detailed answer to impress the examiner
+  - 4 Steps: answer the question directly, explain your answer, give an example, explain the opposite/alternative (what if)
 ## Writing
 
 ## Grammar
