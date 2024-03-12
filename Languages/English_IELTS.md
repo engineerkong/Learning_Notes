@@ -100,6 +100,7 @@
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/2542e89d-2c84-4de5-9c6a-7f7c3b022d1d)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/f7380334-9bb4-48a1-a0a6-c94ee468fa5e)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/8fb27c9e-c8f9-4a85-92f7-16cd6c7980b1)
+  - more women than men attended/overallwith/is taken by/a mere/majority/in the minority/
   - Process diagramm:
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/36c1f966-65f3-4f83-9887-96753111f8a0)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/29e0d509-c9e9-4307-8855-fc7d311f782e)
@@ -108,6 +109,7 @@
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/711828da-9446-428c-9fc7-6ec854cfe7f4)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/22d2d2f6-77da-4287-8dfb-5bc7ad5a24f4)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/f7c1cde6-1d93-44f3-8d29-19b08f74bf90)
+  - we can see that
   - Comparison diagramm:
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/63ac40fb-1391-47bf-8b82-b3a95be91649)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/75c415fd-8a3e-4677-b1f5-01b538c46b62)
@@ -115,7 +117,7 @@
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/37e09d1e-48be-4396-bf0a-20b387d6d20a)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/874e846b-61a3-45dc-abc6-b1cddd10f127)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d8e26ac0-6635-4e76-817f-f68fbd02fa58)
-
+  - the most noticeable change/along with/include
 
   - 
 ## Grammar
