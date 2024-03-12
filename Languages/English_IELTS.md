@@ -71,12 +71,14 @@
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/fd3db52e-1e70-4f13-ac79-b156ee0b8808)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/4e5f9396-277b-41c6-baec-404297f24371)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/4c9af7a0-b970-48a7-8b05-73f64cb63734)
+  - it is clear that/by far/each/a negligible amount可忽略的/overtake/rise dramatically to a peak of/by contrast/remain at this level
   - Bar chart:
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/aed84d89-a01e-4460-ad10-842d87cfea27)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/84f1366f-c3a0-4d30-a467-006e4c7bebd9)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/efc5bb36-b8a4-4d11-b3bb-10b7b443219b)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/07b7d267-b6b2-4775-adbe-c90b42b9a838)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/72d31f5c-749e-4d4d-aa89-261e9506f871)
+  - almost double/second most/figure for
   - Pie chart:
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/f80f81d1-1af6-44cb-83b4-9b2e157f17e6)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/75435775-b1e9-486f-91c4-06717a24b790)
@@ -84,12 +86,14 @@
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/8d3bc515-e311-40d5-9340-df6789231e5f)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/610e6dd6-ef16-48cb-b255-f79ba7762495)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/ea176c6d-5cbd-4f76-9618-5f8491a7ab3b)
+  - expenditure/it is noticeable/spend a larger percentage of/go on/account for the highest proportion/half as much ... as ..
   - Tables:
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/c4767d96-25a2-4d97-9288-d3efc8b2c3a6)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/fc75be10-d83c-4c66-a48f-f847d945973c)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/09a5a588-e297-4423-bce0-78be9e0f9ac9)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/21340898-1243-4a3d-be44-69d8a8abde37)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/1d65bca4-d10e-4c8a-aef7-3f234e42568b)
+  - in terms of/just under/be ranked fifth/with the exception of/welll over/interestingly
   - 2 chart question:
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/eac3e7fd-84a6-407c-b9ad-e91045f83e0c)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d1e148ac-75fd-4f71-b3c1-5b0247229cfd)
@@ -112,7 +116,8 @@
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/874e846b-61a3-45dc-abc6-b1cddd10f127)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d8e26ac0-6635-4e76-817f-f68fbd02fa58)
 
-  
+
+  - 
 ## Grammar
 
 ## Vocabulary
