@@ -53,7 +53,19 @@
 - Part 3 **structure**: a long detailed answer to impress the examiner
   - 4 Steps: answer the question directly, explain your answer, give an example, explain the opposite/alternative (what if)
 ## Writing
-
+- Task 1:
+  - describe a graph, dont give opinions
+  - summary instead of conclusion
+  - **Question types**:
+    1. Line graph
+    2. Bar chart
+    3. Pie chart
+    4. Table
+    5. Diagram - comparing
+    6. Diagram - process
+  - describe, compare, changes/trends
+  - 1. Introduction (1) 2. Overview (2) 3. Details 4. Details 5. Summary
+  - Line graphs: higher overall (general), at least one thing about each line
 ## Grammar
 
 ## Vocabulary
