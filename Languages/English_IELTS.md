@@ -64,8 +64,55 @@
     5. Diagram - comparing
     6. Diagram - process
   - describe, compare, changes/trends
-  - 1. Introduction (1) 2. Overview (2) 3. Details 4. Details 5. Summary
-  - Line graphs: higher overall (general), at least one thing about each line
+  - 1. Introduction (1) 2. Overview (2) 3. Details 4. Details
+  - Line graphs:
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/797ab23b-67cf-48c7-9115-0114cc70ca51)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/afca1dd5-e3ff-4873-9445-a27d05a9535d)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/fd3db52e-1e70-4f13-ac79-b156ee0b8808)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/4e5f9396-277b-41c6-baec-404297f24371)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/4c9af7a0-b970-48a7-8b05-73f64cb63734)
+  - Bar chart:
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/aed84d89-a01e-4460-ad10-842d87cfea27)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/84f1366f-c3a0-4d30-a467-006e4c7bebd9)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/efc5bb36-b8a4-4d11-b3bb-10b7b443219b)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/07b7d267-b6b2-4775-adbe-c90b42b9a838)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/72d31f5c-749e-4d4d-aa89-261e9506f871)
+  - Pie chart:
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/f80f81d1-1af6-44cb-83b4-9b2e157f17e6)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/75435775-b1e9-486f-91c4-06717a24b790)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/e782dfcf-eebe-43fc-a5db-efeaa010ffd5)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/8d3bc515-e311-40d5-9340-df6789231e5f)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/610e6dd6-ef16-48cb-b255-f79ba7762495)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/ea176c6d-5cbd-4f76-9618-5f8491a7ab3b)
+  - Tables:
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/c4767d96-25a2-4d97-9288-d3efc8b2c3a6)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/fc75be10-d83c-4c66-a48f-f847d945973c)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/09a5a588-e297-4423-bce0-78be9e0f9ac9)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/21340898-1243-4a3d-be44-69d8a8abde37)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/1d65bca4-d10e-4c8a-aef7-3f234e42568b)
+  - 2 chart question:
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/eac3e7fd-84a6-407c-b9ad-e91045f83e0c)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d1e148ac-75fd-4f71-b3c1-5b0247229cfd)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/2542e89d-2c84-4de5-9c6a-7f7c3b022d1d)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/f7380334-9bb4-48a1-a0a6-c94ee468fa5e)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/8fb27c9e-c8f9-4a85-92f7-16cd6c7980b1)
+  - Process diagramm:
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/36c1f966-65f3-4f83-9887-96753111f8a0)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/29e0d509-c9e9-4307-8855-fc7d311f782e)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/4669adde-edea-4daa-a4ac-dc22e2acab95)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/98851993-a536-4b88-b088-473e915e093a)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/711828da-9446-428c-9fc7-6ec854cfe7f4)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/22d2d2f6-77da-4287-8dfb-5bc7ad5a24f4)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/f7c1cde6-1d93-44f3-8d29-19b08f74bf90)
+  - Comparison diagramm:
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/63ac40fb-1391-47bf-8b82-b3a95be91649)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/75c415fd-8a3e-4677-b1f5-01b538c46b62)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/5c85c309-1aa7-45eb-aaf1-e4ade405888a)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/37e09d1e-48be-4396-bf0a-20b387d6d20a)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/874e846b-61a3-45dc-abc6-b1cddd10f127)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d8e26ac0-6635-4e76-817f-f68fbd02fa58)
+
+  
 ## Grammar
 
 ## Vocabulary
