@@ -118,8 +118,19 @@
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/874e846b-61a3-45dc-abc6-b1cddd10f127)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d8e26ac0-6635-4e76-817f-f68fbd02fa58)
   - the most noticeable change/along with/include
+- Task 2:
+  - Essay
+  - 4 question types about universal topics: Discussion, Opinion, Problem and solution, Two-part question
+  - Introduction (2), Detail (7), Detail (7), Conclusion (2)
+  - I'm looking forward to meeting my friend again.
+  - Most citizens are opposed to paying increased taxes. 
+  - His addiction to drinking was the cause of a very serious accident
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/397d51e1-851d-4c45-861a-2203e4a56168)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/ad916bf2-b203-426f-b248-1e335fda2a17)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/5e363ac6-8489-41eb-95bb-b6af57c6b069)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/da7c1696-96f9-44ce-950d-d1fc3f87399b)
 
-  - 
+  
 ## Grammar
 
 ## Vocabulary
