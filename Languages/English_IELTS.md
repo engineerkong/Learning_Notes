@@ -150,8 +150,16 @@
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/a886d5e3-10be-4a03-ade1-a0f5d440ec46)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/93627fef-95af-483b-970b-f8314b089502)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/b0d4387d-f8a9-4d53-856d-d0c696602840)
-
-
+  - **problem and solution**: it is true that, problem/solution
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/0410cfdb-f967-41bf-9300-f6ffc6cf58e8)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/f380aaa7-a049-4db5-8fe7-8d7ff886eb5c)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/f2706b44-1c75-4a16-9b1a-710c0c385854)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/0d4e3595-dde4-4ebd-bd7e-ab82a24d28e1)
+  - **2-part question**: 
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/aaf43c1c-d445-4291-9529-61b74811187c)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/800ce71c-6cee-4ae2-85b2-29574e4ec9c2)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/65175a2c-87e1-460c-9c76-c1abae41879c)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/c4061023-83e4-405e-9414-535e915d47f2)
 
 
 ## Grammar
