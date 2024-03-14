@@ -121,16 +121,39 @@
 - Task 2:
   - Essay
   - 4 question types about universal topics: Discussion, Opinion, Problem and solution, Two-part question
-  - Introduction (2), Detail (7), Detail (7), Conclusion (2)
+  - Introduction (2:topic+answer), Detail (7:oppositeview), Detail (7:myview), Conclusion (2:answer)
   - I'm looking forward to meeting my friend again.
   - Most citizens are opposed to paying increased taxes. 
   - His addiction to drinking was the cause of a very serious accident
+  - Introduction:
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/397d51e1-851d-4c45-861a-2203e4a56168)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/ad916bf2-b203-426f-b248-1e335fda2a17)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/5e363ac6-8489-41eb-95bb-b6af57c6b069)
   - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/da7c1696-96f9-44ce-950d-d1fc3f87399b)
+  - Main body:
+  - Firstly, Secondly, Finally/Idea, Examplain, Example
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/51db4242-e257-4093-8a1a-f15a1d7eed5c)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/11f7b393-332c-4037-857e-6c9b8694650e)
+  - Conclusion:
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/6b5123a9-5473-4652-952f-ef591fde73f9)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/7604ed21-a732-4c96-a640-e92f00364180)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/20ea70f2-8302-44b7-9e6c-c453944e064f)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/30c853ee-6727-48a8-b228-577dd2b18169)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/d89acef2-86ec-4dca-8f91-95b52a8b089f)
+  - **opinion**: do you agree or disagree, against the opposite view/pro your view
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/38199258-261b-4734-a710-8107692a3805)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/e0e3f116-d3e8-4cb4-bf97-85d80d6d0bf0)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/9c2db26e-ab7c-4581-8147-0561189ba3b5)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/0593b54f-7613-4858-8b99-ad5a5a4923c4)
+  - **discussion**: opposite view/your view
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/e80f2767-ed37-4886-8de1-5edfdf8d2873)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/a886d5e3-10be-4a03-ade1-a0f5d440ec46)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/93627fef-95af-483b-970b-f8314b089502)
+  - ![image](https://github.com/engineerkong/Learning_Notes/assets/89781823/b0d4387d-f8a9-4d53-856d-d0c696602840)
 
-  
+
+
+
 ## Grammar
 
 ## Vocabulary
