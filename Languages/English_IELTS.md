@@ -236,3 +236,4 @@
 - cloudy
 - balcony
 - diameter
+- military
