@@ -202,3 +202,11 @@
 - drakonisch = streng
 - gang und gäbe sein = übrig = common
 - die Zeitspanne = die Dauer = period
+19.
+- die Realität zu entfliehen
+- vor der Realität zu flüchten
+- in die Realität einzutauchen
+- irdisch: auf der Erde
+- aufheben: beenden, lift
+- teilhaft: part of
+- basiert auf/ist basierend auf
