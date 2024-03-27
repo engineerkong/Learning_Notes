@@ -2,7 +2,7 @@
 - sudo -i
 - sudo -s
 - sudo apt-get autoclean
-- pip install -e .
+- pip install -e . (dev 本库链接 install 另建库在env中)
 - conda clean --all
 - conda env export > environment.yaml
 - conda env create -f environment.yaml
