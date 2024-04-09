@@ -1,9 +1,7 @@
 ## General
 - sudo -i
 - sudo -s
-- sudo apt-get autoclean
 - pip install -e . (dev 本库链接 install 另建库在env中)
-- conda clean --all
 - conda env export > environment.yaml
 - conda env create -f environment.yaml
 
@@ -14,3 +12,7 @@
 - sudo docker rmi image
 - sudo docker build --no-cache -t demo:v1
 
+# Clean up
+- sudo apt-get autoclean
+- conda clean --all
+- pip cache purge
