@@ -10,7 +10,8 @@
 - sudo apt-get purge docker-ce docker-ce-cli containerd.io
 - sudo cp -au /var/lib/docker /x/x/x
 - sudo docker rmi image
-- sudo docker build --no-cache -t demo:v1
+- sudo docker system prune -a
+- sudo docker build --no-cache -t demo:v1 .
 
 # Clean up
 - sudo apt-get autoclean
