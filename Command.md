@@ -12,7 +12,8 @@
 - sudo docker rmi image
 - sudo docker system prune -a
 - sudo docker build --no-cache -t demo:v1 .
-
+- sudo docker run -it demo bash
+- sudo docker run -v <computerpath>:<containerpath> demo
 # Clean up
 - sudo apt-get autoclean
 - conda clean --all
