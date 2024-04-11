@@ -14,6 +14,7 @@
 - sudo docker build --no-cache -t demo:v1 .
 - sudo docker run -it demo bash
 - sudo docker run -v <computerpath>:<containerpath> demo
+- sudo docker push xxx
 
 # Clean up
 - sudo apt-get autoclean
